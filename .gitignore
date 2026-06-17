@@ -1,0 +1,10 @@
+# OmegaT spezifische Ignorierungen
+/target/
+/omegat/project_save.tmx.*
+/omegat/project_stats.txt
+/omegat/project_stats_internal.txt
+/omegat/uiLayout.xml
+.apps/
+
+# Verhindert, dass macOS-Systemmüll hochgeladen wird
+.DS_Store
