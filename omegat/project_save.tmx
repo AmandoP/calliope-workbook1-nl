@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Abfragen&lt;x1/&gt;(ein-/zweifach)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133051Z" creationid="amando" creationdate="20260618T133051Z">
+        <seg>Vragen&lt;x1/&gt;(enkelvoudig/dubbel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Anstecken und Luftqualität messen!</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113610Z" creationid="amando" creationdate="20260618T113610Z">
