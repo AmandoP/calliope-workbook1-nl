@@ -102,10 +102,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Auf dem Monitor ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134713Z" creationid="amando" creationdate="20260618T134713Z">
+        <seg>Op het scherm ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Aus dem Lautsprecher ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134717Z" creationid="amando" creationdate="20260618T134717Z">
+        <seg>Uit de luidspreker ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Autorin und Autor:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Begleitendes Zusatzmaterial inklusive Leitfäden für den Unterricht, Programmcodes und Lösungen können auf der Webseite aufgerufen werden: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134239Z" creationid="amando" creationdate="20260618T134239Z">
         <seg>Auteurs:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Aanvullend materiaal, waaronder lesgidsen, programmacodes en oplossingen, is te vinden op de website: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>BASTELN</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134623Z" creationid="amando" creationdate="20260618T134623Z">
+        <seg>KNUTSELEN</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +162,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133738Z" creationid="amando" creationdate="20260618T133738Z">
         <seg>Geef je programma een naam en klik op ‘Downloaden’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Betrachte deinen Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134747Z" creationid="amando" creationdate="20260618T134747Z">
+        <seg>Kijk eens naar je Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +210,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134009Z" creationid="amando" creationdate="20260618T134009Z">
         <seg>Je kunt de inhoud van de rugzak wijzigen en deze opvragen via de naam van de rugzak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Calliope mini</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134632Z" creationid="amando" creationdate="20260618T134632Z">
+        <seg>De Calliope mini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Computer ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134701Z" creationid="amando" creationdate="20260618T134701Z">
+        <seg>De computer ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +282,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134406Z" creationid="amando" creationdate="20260618T134406Z">
         <seg>Een algoritme is een verwerkingsvoorschrift met eenduidige, uitvoerbare instructies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Computersystem besteht aus vielen Bauteilen, kennst du sie?&lt;x2/&gt;Einige dieser Bauteile sind auch auf dem Calliope mini zu finden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134636Z" creationid="amando" creationdate="20260618T134636Z">
+        <seg>Een computersysteem bestaat uit veel onderdelen, ken je ze?&lt;x2/&gt;Sommige van deze onderdelen zijn ook op de Calliope mini te vinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +366,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Geschrieben wird ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134709Z" creationid="amando" creationdate="20260618T134709Z">
+        <seg>Er wordt geschreven ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hacken</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134615Z" creationid="amando" creationdate="20260618T134615Z">
+        <seg>Hakken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hier ist Platz für dein Struktogramm:</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114340Z" creationid="amando" creationdate="20260618T114340Z">
@@ -322,6 +394,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133615Z" creationid="amando" creationdate="20260618T133615Z">
         <seg>Er is hier iets in de war geraakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier siehst du eine Abbildung des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134755Z" creationid="amando" creationdate="20260618T134755Z">
+        <seg>Hier zie je een afbeelding van de Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +442,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134504Z" creationid="amando" creationdate="20260618T134504Z">
         <seg>Ik kauw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich klopfe.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134607Z" creationid="amando" creationdate="20260618T134607Z">
+        <seg>Ik klop op de deur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +558,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Lagesensor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134824Z" creationid="amando" creationdate="20260618T134824Z">
+        <seg>Positiesensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lerne den Calliope mini kennen.&lt;x2/&gt;Entwickle kreative Ideen und produziere eigene Prototypen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134611Z" creationid="amando" creationdate="20260618T134611Z">
+        <seg>Maak kennis met de Calliope mini.&lt;x2/&gt;Ontwikkel creatieve ideeën en maak je eigen prototypes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Licht&lt;x2/&gt;32&lt;x3/&gt;Lautstärke&lt;x4/&gt;34&lt;x5/&gt;Temperatur&lt;x6/&gt;37&lt;x7/&gt;Lage&lt;x8/&gt;40&lt;x9/&gt;Orakel&lt;x10/&gt;42&lt;x11/&gt;Feuchtigkeitssensor&lt;x12/&gt;44&lt;x13/&gt;Pflanzenstation&lt;x14/&gt;45&lt;x15/&gt;Ultraschallsensor&lt;x16/&gt;48&lt;x17/&gt;Personenzähler&lt;x18/&gt;50&lt;x19/&gt;CO2-Sensor&lt;x20/&gt;53&lt;x21/&gt;Luftqualität&lt;x22/&gt;54</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134226Z" creationid="amando" creationdate="20260618T134226Z">
@@ -490,6 +594,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114332Z" creationid="amando" creationdate="20260618T114332Z">
         <seg>Luchtkwaliteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mikrofon</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134832Z" creationid="amando" creationdate="20260618T134832Z">
+        <seg>Microfoon</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,10 +630,42 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mit der Maus ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134705Z" creationid="amando" creationdate="20260618T134705Z">
+        <seg>Met de muis ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Nur durch Testen und Ausprobieren, erfährst du welche Geschwindigkeit die richtige für dich ist.&lt;x2/&gt;Programmier:innen sind sehr gerne bequem.&lt;x3/&gt;Anstatt immer wieder in jedem Pause Befehl die Geschwindigkeit zu ändern, kannst du&lt;x4/&gt;es dir viel einfacher machen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133850Z" creationid="amando" creationdate="20260618T133850Z">
         <seg>Alleen door te testen en uit te proberen kom je erachter welke snelheid voor jou de juiste is.&lt;x2/&gt;Programmeurs houden erg van gemak.&lt;x3/&gt;In plaats van de snelheid bij elke pauzecommando steeds opnieuw aan te passen, kun je&lt;x4/&gt;het jezelf veel gemakkelijker maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ordne die Bauteile des Calliope mini den unterschiedlichen Kategorien &lt;x2/&gt;Eingabe&lt;x3/&gt;, &lt;x4/&gt;Verarbeitung&lt;x5/&gt; und &lt;x6/&gt;Ausgabe&lt;x7/&gt; zu, indem du sie mit Linien verbindest.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134803Z" creationid="amando" creationdate="20260618T134803Z">
+        <seg>Deel de onderdelen van de Calliope mini in de verschillende categorieën &lt;x2/&gt;Invoer&lt;x3/&gt;, &lt;x4/&gt;Verwerking&lt;x5/&gt; en &lt;x6/&gt;Uitvoer&lt;x7/&gt; in door ze met lijnen te verbinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ordne die Begriffe zu und schreibe sie an die Linien.&lt;x2/&gt;Computer, Monitor, Tastatur, Maus, Lautsprecher</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134644Z" creationid="amando" creationdate="20260618T134644Z">
+        <seg>Breng de begrippen in de juiste volgorde en schrijf ze op de lijnen.&lt;x2/&gt;Computer, monitor, toetsenbord, muis, luidspreker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ordne die einzelnen Teile den Kategorien &lt;x2/&gt;Eingabe&lt;x3/&gt; &lt;x4/&gt;(pink)&lt;x5/&gt;, &lt;x6/&gt;Verarbeitung&lt;x7/&gt; &lt;x8/&gt;(grün) oder &lt;x9/&gt;Ausgabe&lt;x10/&gt; &lt;x11/&gt;(türkis)&lt;x12/&gt; zu, indem du sie mit der passenden Farbe einkreist.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134648Z" creationid="amando" creationdate="20260618T134648Z">
+        <seg>Deel de afzonderlijke onderdelen in de categorieën &lt;x2/&gt;Invoer&lt;x3/&gt; &lt;x4/&gt;(roze)&lt;x5/&gt;, &lt;x6/&gt;Verwerking&lt;x7/&gt; &lt;x8/&gt;(groen) of &lt;x9/&gt;Uitvoer&lt;x10/&gt; &lt;x11/&gt;(turkoois)&lt;x12/&gt;, door ze met de juiste kleur te omcirkelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,10 +726,42 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Schreibe sie auf.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134657Z" creationid="amando" creationdate="20260618T134657Z">
+        <seg>Schrijf ze op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Sensoren sind wie Sinne.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134046Z" creationid="amando" creationdate="20260618T134046Z">
         <seg>Sensoren zijn net als zintuigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Taste A</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134820Z" creationid="amando" creationdate="20260618T134820Z">
+        <seg>Toets A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Taste B</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134816Z" creationid="amando" creationdate="20260618T134816Z">
+        <seg>Toets B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tasten</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134812Z" creationid="amando" creationdate="20260618T134812Z">
+        <seg>Toetsen</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,10 +790,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Touch-Pins</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134807Z" creationid="amando" creationdate="20260618T134807Z">
+        <seg>Touch-pinnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Verbinde deinen Calliope mini mit dem USB-Kabel mit deinem Computer.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133730Z" creationid="amando" creationdate="20260618T133730Z">
         <seg>Sluit je Calliope mini met de USB-kabel aan op je computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verbinde die Bezeichnungen mit den einzelnen Bauteilen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134759Z" creationid="amando" creationdate="20260618T134759Z">
+        <seg>Koppel de benamingen aan de afzonderlijke onderdelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,10 +886,58 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Welche Funktionen haben die einzelnen Teile?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134653Z" creationid="amando" creationdate="20260618T134653Z">
+        <seg>Welke functies hebben de afzonderlijke onderdelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Teile kennst du?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134640Z" creationid="amando" creationdate="20260618T134640Z">
+        <seg>Welke onderdelen ken je?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Welche Vorgänge fallen dir noch ein, bei denen sich bestimmte Handlungen wiederholen?</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134521Z" creationid="amando" creationdate="20260618T134521Z">
         <seg>Welke situaties kun je nog meer bedenken waarin bepaalde handelingen zich herhalen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn du genau hinsiehst, kannst du verschiedene Symbole erkennen, die dir Hinweise zu Bauteilen geben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134751Z" creationid="amando" creationdate="20260618T134751Z">
+        <seg>Als je goed kijkt, zie je verschillende symbolen die je aanwijzingen geven over de onderdelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich Geburtstag habe,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134542Z" creationid="amando" creationdate="20260618T134542Z">
+        <seg>Als ik jarig ben,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich glücklich bin,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134603Z" creationid="amando" creationdate="20260618T134603Z">
+        <seg>Als ik gelukkig ben,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich krank bin,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134558Z" creationid="amando" creationdate="20260618T134558Z">
+        <seg>Als ik ziek ben,</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +986,30 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133932Z" creationid="amando" creationdate="20260618T133932Z">
         <seg>b) &lt;x2/&gt;Stel&lt;x3/&gt; de variabele „Tempo“ vóór je&lt;x4/&gt; aftelling in op de waarde 100.&lt;x5/&gt;c) &lt;x6/&gt;Vervang&lt;x7/&gt; de waarden in de pauzecommando’s&lt;x8/&gt;	door het variabele blok „Tempo“.&lt;x9/&gt;d) &lt;x10/&gt;Stel&lt;x11/&gt; de waarde van de variabele&lt;x12/&gt; „Tempo“ in op 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>bleibe ich zu Hause.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134546Z" creationid="amando" creationdate="20260618T134546Z">
+        <seg>dan blijf ik thuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>lade ich Freunde ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134550Z" creationid="amando" creationdate="20260618T134550Z">
+        <seg>nodig ik vrienden uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>mache ich laut Musik.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134554Z" creationid="amando" creationdate="20260618T134554Z">
+        <seg>zet ik de muziek hard aan.</seg>
       </tuv>
     </tu>
     <tu>
