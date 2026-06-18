@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Alle 25 LEDs können rot leuchten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133406Z" creationid="amando" creationdate="20260618T133406Z">
+        <seg>Alle 25 LED's kunnen rood oplichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Anstecken und Luftqualität messen!</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113610Z" creationid="amando" creationdate="20260618T113610Z">
@@ -62,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Beim Start erscheint ein Herz auf der LED-Matrix.&lt;x2/&gt;Lasse „Ich liebe Berlin!“ über die LED-Matrix laufen.&lt;x3/&gt;Lasse dauerhaft ein Herz auf der LED-Matrix blinken.&lt;x4/&gt;Tipp:&lt;x5/&gt; Tippe Dauerhaft in die Suche ein!&lt;x6/&gt;Lasse eine Rakete auf der LED-Matrix steigen.&lt;x7/&gt;Tipp:&lt;x8/&gt; Jetzt musst du denken, wie ein Trickfilmprofi&lt;x9/&gt;-  in Einzelbildern!&lt;x10/&gt;Bring die Programmblöcke in die richtige Reihenfolge&lt;x11/&gt;und lass einen Countdown von 3-2-1-0 anzeigen.&lt;x12/&gt;a) Füge hinter jeder Zahl eine &lt;x13/&gt;Pause&lt;x14/&gt; ein.&lt;x15/&gt;b) &lt;x16/&gt;Verlängere&lt;x17/&gt; die Pausen indem du den Wert der Millisekunden (MS) erhöhst.&lt;x18/&gt;c) &lt;x19/&gt;Speichere&lt;x20/&gt; dein Programm unter dem Namen „Raketenstart“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133431Z" creationid="amando" creationdate="20260618T133427Z">
+        <seg>Bij het opstarten verschijnt er een hart op de LED-matrix.&lt;x2/&gt;Laat „Ik hou van Berlijn!“ over de LED-matrix lopen.&lt;x3/&gt;Laat een hart continu op de LED-matrix knipperen.&lt;x4/&gt;Tip:&lt;x5/&gt; Typ ‘Duur’ in de zoekbalk!&lt;x6/&gt;Laat een raket opstijgen op de LED-matrix.&lt;x7/&gt;Tip:&lt;x8/&gt; Nu moet je denken als een animatieprofessional&lt;x9/&gt;-  in afzonderlijke beelden!&lt;x10/&gt;Zet de programmablokken in de juiste volgorde&lt;x11/&gt;en laat een aftelling van 3-2-1-0 weergeven.&lt;x12/&gt;a) Voeg achter elk getal een &lt;x13/&gt;pauze&lt;x14/&gt; in.&lt;x15/&gt;b) &lt;x16/&gt;Verleng&lt;x17/&gt; de pauzes door de waarde in milliseconden (ms) te verhogen.&lt;x18/&gt;c) &lt;x19/&gt;Sla&lt;x20/&gt; je programma op onder de naam „Raketlancering“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>CO2-Sensor</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113602Z" creationid="amando" creationdate="20260618T113602Z">
         <seg>CO₂-sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die LED-Matrix ist der &lt;x2/&gt;Bildschirm&lt;x3/&gt; des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133402Z" creationid="amando" creationdate="20260618T133402Z">
+        <seg>De LED-matrix is het &lt;x2/&gt;scherm&lt;x3/&gt; van de Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +110,42 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Erstelle folgende Programme in MakeCode:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133444Z" creationid="amando" creationdate="20260618T133444Z">
+        <seg>Maak de volgende programma's in MakeCode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es lassen sich Texte, Symbole und sogar Animationen anzeigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133410Z" creationid="amando" creationdate="20260618T133410Z">
+        <seg>Er kunnen teksten, symbolen en zelfs animaties worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Führe die einzelnen Schritte in der richtigen Reihenfolge aus und teste auf deinem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133632Z" creationid="amando" creationdate="20260618T133632Z">
+        <seg>Voer de afzonderlijke stappen in de juiste volgorde uit en test het resultaat op je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hier ist Platz für dein Struktogramm:</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114340Z" creationid="amando" creationdate="20260618T114340Z">
         <seg>Hier is ruimte voor je structogram:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier ist etwas durcheinander geraten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133615Z" creationid="amando" creationdate="20260618T133615Z">
+        <seg>Er is hier iets in de war geraakt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +162,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133205Z" creationid="amando" creationdate="20260618T133205Z">
         <seg>KENNISMAKEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>LED-Matrix</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133354Z" creationid="amando" creationdate="20260618T133354Z">
+        <seg>LED-matrix</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +206,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Raketenstart</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133607Z" creationid="amando" creationdate="20260618T133607Z">
+        <seg>Raketlancering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Relative Humidity&lt;x2/&gt;relative Luftfeuchtigkeit</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114439Z" creationid="amando" creationdate="20260618T114315Z">
         <seg>Relative Humidity&lt;x2/&gt;relatieve luchtvochtigheid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir die einzelnen Schritte zum Übertragen deines Programms auf den Calliope mini genau an und bringe sie in die richtige Reihenfolge.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133619Z" creationid="amando" creationdate="20260618T133619Z">
+        <seg>Bekijk de afzonderlijke stappen voor het overzetten van je programma naar de Calliope mini goed en zet ze in de juiste volgorde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +266,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133337Z" creationid="amando" creationdate="20260618T133337Z">
         <seg>Tip:&lt;x2/&gt; De kleuren van de blokken geven je een indicatie in welke categorie je ze kunt vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vergiss nicht “Knopf A” und “Knopf B” zu drücken.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133636Z" creationid="amando" creationdate="20260618T133636Z">
+        <seg>Vergeet niet op “knop A” en “knop B” te drukken.</seg>
       </tuv>
     </tu>
     <tu>
