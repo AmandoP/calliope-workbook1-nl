@@ -4,6 +4,78 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_0766b073d" segtype="sentence" srclang="de-DE"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Anstecken und Luftqualität messen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113610Z" creationid="amando" creationdate="20260618T113610Z">
+        <seg>Aansluiten en de luchtkwaliteit meten!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bausteine eines Computers</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113534Z" creationid="amando" creationdate="20260618T113534Z">
+        <seg>Onderdelen van een computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>CO2-Sensor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113602Z" creationid="amando" creationdate="20260618T113602Z">
+        <seg>CO₂-sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Einfach anschließen und den CO2 Gehalt, die Temperatur und die Luftfeuchtigkeit messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113623Z" creationid="amando" creationdate="20260618T113623Z">
+        <seg>Gewoon aansluiten en het CO₂-gehalte, de temperatuur en de luchtvochtigheid meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113700Z" creationid="amando" creationdate="20260618T113700Z">
+        <seg>Importeer de benodigde programmablokken:&lt;x2/&gt;CO2-sensor-SCD40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem&lt;x1/&gt;Grove-Kabel wird der SCD40 über den Grove-Anschluss A0 mit dem Calliope mini verbunden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113648Z" creationid="amando" creationdate="20260618T113648Z">
+        <seg>Met de&lt;x1/&gt;Grove-kabel wordt de SCD40 via de Grove-aansluiting A0 aangesloten op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit der CO2-Platine lassen sich drei unterschiedliche Werte messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113618Z" creationid="amando" creationdate="20260618T113618Z">
+        <seg>Met de CO2-printplaat kunnen drie verschillende waarden worden gemeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schließe die Platine an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113643Z" creationid="amando" creationdate="20260618T113643Z">
+        <seg>Sluit de printplaat aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwende die CO2-Platine um die Luftqualität zu messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113635Z" creationid="amando" creationdate="20260618T113635Z">
+        <seg>Gebruik de CO2-printplaat om de luchtkwaliteit te meten.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
