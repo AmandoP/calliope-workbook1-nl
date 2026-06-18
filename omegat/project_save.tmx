@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;x2/&gt;Starte den Simulator und beschreibe, was im Simulator passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133235Z" creationid="amando" creationdate="20260618T133235Z">
+        <seg>&lt;x2/&gt;Start de simulator en beschrijf wat er in de simulator gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Abfragen&lt;x1/&gt;(ein-/zweifach)</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133051Z" creationid="amando" creationdate="20260618T133051Z">
         <seg>Vragen&lt;x1/&gt;(enkelvoudig/dubbel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Abfragen&lt;x1/&gt;(mehrfach)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133059Z" creationid="amando" creationdate="20260618T133059Z">
+        <seg>Zoekopdrachten&lt;x1/&gt;(meerdere)</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Erstelle dazu folgende Programme in MakeCode.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133230Z" creationid="amando" creationdate="20260618T133230Z">
+        <seg>Maak hiervoor de volgende programma's in MakeCode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hier ist Platz für dein Struktogramm:</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114340Z" creationid="amando" creationdate="20260618T114340Z">
@@ -74,6 +98,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113700Z" creationid="amando" creationdate="20260618T113700Z">
         <seg>Importeer de benodigde programmablokken:&lt;x2/&gt;CO2-sensor-SCD40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>KENNENLERNEN</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133205Z" creationid="amando" creationdate="20260618T133205Z">
+        <seg>KENNISMAKEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>LUFTQUALITÄT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133107Z" creationid="amando" creationdate="20260618T133107Z">
+        <seg>LUCHTKWALITEIT</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +166,30 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Teste im Editor und beschreibe.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133218Z" creationid="amando" creationdate="20260618T133218Z">
+        <seg>Test het in de editor en beschrijf het.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Testen im Simulator</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133329Z" creationid="amando" creationdate="20260618T133329Z">
+        <seg>Testen in de simulator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp:&lt;x2/&gt; Die Farben der Blöcke geben dir einen Hinweis in welcher Kategorie du sie findest.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133337Z" creationid="amando" creationdate="20260618T133337Z">
+        <seg>Tip:&lt;x2/&gt; De kleuren van de blokken geven je een indicatie in welke categorie je ze kunt vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Verwende die CO2-Platine um die Luftqualität zu messen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113635Z" creationid="amando" creationdate="20260618T113635Z">
@@ -134,10 +198,50 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Was funktioniert noch nicht so gut?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133136Z" creationid="amando" creationdate="20260618T133136Z">
+        <seg>Wat werkt nog niet zo goed?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was funktioniert nocht nicht so gut?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133132Z" creationid="amando" creationdate="20260618T133132Z">
+        <seg>Wat werkt nog niet zo goed?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was funktioniert schon ziemlich gut?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133124Z" creationid="amando" creationdate="20260618T133124Z">
+        <seg>Wat werkt al redelijk goed?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Funktionen haben die einzelnen &lt;x1/&gt;Schaltflächen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133222Z" creationid="amando" creationdate="20260618T133214Z">
+        <seg>Welke functies hebben de afzonderlijke &lt;x1/&gt;knoppen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wichtige Blöcke:</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114307Z" creationid="amando" creationdate="20260618T114307Z">
         <seg>Belangrijke onderdelen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Woran hast du länger getüftelt?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133116Z" creationid="amando" creationdate="20260618T133116Z">
+        <seg>Waar heb je het langst aan zitten sleutelen?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
