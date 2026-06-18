@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;x5/&gt;Verwende eine Variable um die Geschwindigkeit deiner Animation zu bestimmen und bequem anzupassen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133854Z" creationid="amando" creationdate="20260618T133854Z">
+        <seg>&lt;x5/&gt;Gebruik een variabele om de snelheid van je animatie te bepalen en deze gemakkelijk aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Abfragen&lt;x1/&gt;(ein-/zweifach)</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133051Z" creationid="amando" creationdate="20260618T133051Z">
@@ -78,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Benenne dein Programm und klicke auf “Herunterladen”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133738Z" creationid="amando" creationdate="20260618T133738Z">
+        <seg>Geef je programma een naam en klik op ‘Downloaden’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>CO2-Sensor</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113602Z" creationid="amando" creationdate="20260618T113602Z">
@@ -94,10 +110,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Drücke die weiße Reset Taste auf deinem Calliope mini, um dein Programm auszuführen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133833Z" creationid="amando" creationdate="20260618T133833Z">
+        <seg>Druk op de witte resetknop op je Calliope mini om je programma uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Einfach anschließen und den CO2 Gehalt, die Temperatur und die Luftfeuchtigkeit messen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113623Z" creationid="amando" creationdate="20260618T113623Z">
         <seg>Gewoon aansluiten en het CO₂-gehalte, de temperatuur en de luchtvochtigheid meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle das abgebildete Programm.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133825Z" creationid="amando" creationdate="20260618T133825Z">
+        <seg>Maak het afgebeelde programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Nur durch Testen und Ausprobieren, erfährst du welche Geschwindigkeit die richtige für dich ist.&lt;x2/&gt;Programmier:innen sind sehr gerne bequem.&lt;x3/&gt;Anstatt immer wieder in jedem Pause Befehl die Geschwindigkeit zu ändern, kannst du&lt;x4/&gt;es dir viel einfacher machen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133850Z" creationid="amando" creationdate="20260618T133850Z">
+        <seg>Alleen door te testen en uit te proberen kom je erachter welke snelheid voor jou de juiste is.&lt;x2/&gt;Programmeurs houden erg van gemak.&lt;x3/&gt;In plaats van de snelheid bij elke pauzecommando steeds opnieuw aan te passen, kun je&lt;x4/&gt;het jezelf veel gemakkelijker maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Raketenstart</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133607Z" creationid="amando" creationdate="20260618T133607Z">
@@ -218,6 +258,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114439Z" creationid="amando" creationdate="20260618T114315Z">
         <seg>Relative Humidity&lt;x2/&gt;relatieve luchtvochtigheid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beschreibe was passiert, wenn der Wert der Variable „Tempo“ von 1000 auf 500 geändert wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133907Z" creationid="amando" creationdate="20260618T133907Z">
+        <seg>Bekijk de programmacode en beschrijf wat er gebeurt als de waarde van de variabele „Tempo“ wordt gewijzigd van 1000 naar 500.</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +314,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133337Z" creationid="amando" creationdate="20260618T133337Z">
         <seg>Tip:&lt;x2/&gt; De kleuren van de blokken geven je een indicatie in welke categorie je ze kunt vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verbinde deinen Calliope mini mit dem USB-Kabel mit deinem Computer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133730Z" creationid="amando" creationdate="20260618T133730Z">
+        <seg>Sluit je Calliope mini met de USB-kabel aan op je computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +386,38 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133116Z" creationid="amando" creationdate="20260618T133116Z">
         <seg>Waar heb je het langst aan zitten sleutelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wähle als Speicherort&lt;x1/&gt;„MINI“ aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133817Z" creationid="amando" creationdate="20260618T133817Z">
+        <seg>Kies als opslaglocatie&lt;x1/&gt;„MINI“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a)	&lt;x2/&gt;Erstelle&lt;x3/&gt; eine Variable und &lt;x4/&gt;	benenne sie „Tempo“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133923Z" creationid="amando" creationdate="20260618T133923Z">
+        <seg>a) &lt;x2/&gt;Maak&lt;x3/&gt; een variabele aan en &lt;x4/&gt; noem deze „Tempo“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>b)	&lt;x2/&gt;Setze&lt;x3/&gt; die Variable „Tempo“ vor deinem&lt;x4/&gt;	Countdown auf den Wert 100.&lt;x5/&gt;c)	&lt;x6/&gt;Ersetze&lt;x7/&gt; die Werte in den Pause Befehlen&lt;x8/&gt;	durch den Variablen Block „Tempo“.&lt;x9/&gt;d)	&lt;x10/&gt;Setze&lt;x11/&gt; den Wert der Variable&lt;x12/&gt;	„Tempo“ auf 500.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133932Z" creationid="amando" creationdate="20260618T133932Z">
+        <seg>b) &lt;x2/&gt;Stel&lt;x3/&gt; de variabele „Tempo“ vóór je&lt;x4/&gt; aftelling in op de waarde 100.&lt;x5/&gt;c) &lt;x6/&gt;Vervang&lt;x7/&gt; de waarden in de pauzecommando’s&lt;x8/&gt;	door het variabele blok „Tempo“.&lt;x9/&gt;d) &lt;x10/&gt;Stel&lt;x11/&gt; de waarde van de variabele&lt;x12/&gt; „Tempo“ in op 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Öffne dein Programm „Raketenstart“ und führe folgende Schritte aus:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133915Z" creationid="amando" creationdate="20260618T133915Z">
+        <seg>Open je programma „Raketenstart“ en voer de volgende stappen uit:</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
