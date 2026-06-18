@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Am besten funktioniert es, wenn du bekannte Symbole und Bezeichnungen verwendest.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135012Z" creationid="amando" creationdate="20260618T135012Z">
+        <seg>Het werkt het beste als je bekende symbolen en benamingen gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Andere Wiederholungen sind an eine Bedingung oder ein anderes Ereignis geknüpft.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134513Z" creationid="amando" creationdate="20260618T134513Z">
@@ -94,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Anweisung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135113Z" creationid="amando" creationdate="20260618T135113Z">
+        <seg>Instructies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Anweisungen</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114414Z" creationid="amando" creationdate="20260618T114414Z">
         <seg>Instructies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auch die Farbe und Anordnung einiger Bauteile hat sich leicht geändert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134931Z" creationid="amando" creationdate="20260618T134931Z">
+        <seg>Ook de kleur en de plaatsing van enkele onderdelen zijn enigszins veranderd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +138,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134717Z" creationid="amando" creationdate="20260618T134717Z">
         <seg>Uit de luidspreker ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ausgabe</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134918Z" creationid="amando" creationdate="20260618T134918Z">
+        <seg>Uitgave</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Du kannst die Projekte im Arbeitsheft mit allen Calliope mini Versionen umsetzen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134935Z" creationid="amando" creationdate="20260618T134935Z">
+        <seg>Je kunt de projecten in het werkboek uitvoeren met alle versies van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Du kannst ein Programm mit einem Rezept vergleichen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134312Z" creationid="amando" creationdate="20260618T134312Z">
@@ -294,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ein Plan hilft dir bei der Umsetzung deiner Idee und ist nützlich, damit du den Überblick bewahrst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135008Z" creationid="amando" creationdate="20260618T135008Z">
+        <seg>Een plan helpt je bij het uitvoeren van je idee en is handig om het overzicht te behouden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Eine Variable ist wie ein Rucksack mit Namensschild, den du immer dabei hast und der jederzeit den Inhalt bereithält.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134005Z" creationid="amando" creationdate="20260618T134005Z">
@@ -306,6 +354,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113623Z" creationid="amando" creationdate="20260618T113623Z">
         <seg>Gewoon aansluiten en het CO₂-gehalte, de temperatuur en de luchtvochtigheid meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eingabe</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134914Z" creationid="amando" creationdate="20260618T134914Z">
+        <seg>Invoer</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +458,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134755Z" creationid="amando" creationdate="20260618T134755Z">
         <seg>Hier zie je een afbeelding van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hinweis:&lt;x2/&gt; Ab dem Calliope mini 3 gibt es drei RGB-LEDs.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134926Z" creationid="amando" creationdate="20260618T134926Z">
+        <seg>Opmerking:&lt;x2/&gt; Vanaf de Calliope mini 3 zijn er drie RGB-leds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Lautsprecher</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134857Z" creationid="amando" creationdate="20260618T134857Z">
+        <seg>Luidspreker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Lerne den Calliope mini kennen.&lt;x2/&gt;Entwickle kreative Ideen und produziere eigene Prototypen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134611Z" creationid="amando" creationdate="20260618T134611Z">
@@ -678,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Prozessor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134841Z" creationid="amando" creationdate="20260618T134841Z">
+        <seg>Processor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Raketenstart</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133607Z" creationid="amando" creationdate="20260618T133607Z">
@@ -742,6 +822,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>So können auch andere deinen Plan lesen und mitdenken.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135016Z" creationid="amando" creationdate="20260618T135016Z">
+        <seg>Zo kunnen ook anderen je plan lezen en meedenken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Struktogramme</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134951Z" creationid="amando" creationdate="20260618T134951Z">
+        <seg>Structogrammen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Taste A</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134820Z" creationid="amando" creationdate="20260618T134820Z">
@@ -794,6 +890,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134807Z" creationid="amando" creationdate="20260618T134807Z">
         <seg>Touch-pinnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verarbeitung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134922Z" creationid="amando" creationdate="20260618T134922Z">
+        <seg>Verwerking</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,6 +1010,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134521Z" creationid="amando" creationdate="20260618T134521Z">
         <seg>Welke situaties kun je nog meer bedenken waarin bepaalde handelingen zich herhalen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn du eine Idee hast, mache einen Plan.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135000Z" creationid="amando" creationdate="20260618T135000Z">
+        <seg>Als je een idee hebt, maak dan een plan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,6 +1138,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133915Z" creationid="amando" creationdate="20260618T133915Z">
         <seg>Open je programma „Raketenstart“ en voer de volgende stappen uit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Überlege in welcher Reihenfolge einzelne Schritte ablaufen sollen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135004Z" creationid="amando" creationdate="20260618T135004Z">
+        <seg>Bedenk in welke volgorde de afzonderlijke stappen moeten plaatsvinden.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
