@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Autorin und Autor:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Begleitendes Zusatzmaterial inklusive Leitfäden für den Unterricht, Programmcodes und Lösungen können auf der Webseite aufgerufen werden: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134239Z" creationid="amando" creationdate="20260618T134239Z">
+        <seg>Auteurs:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Aanvullend materiaal, waaronder lesgidsen, programmacodes en oplossingen, is te vinden op de website: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bausteine eines Computers</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113534Z" creationid="amando" creationdate="20260618T113534Z">
@@ -102,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Den Inhalt des Rucksacks kannst du ändern und über den Namen des Rucksacks abfragen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134009Z" creationid="amando" creationdate="20260618T134009Z">
+        <seg>Je kunt de inhoud van de rugzak wijzigen en deze opvragen via de naam van de rugzak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die LED-Matrix ist der &lt;x2/&gt;Bildschirm&lt;x3/&gt; des Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133402Z" creationid="amando" creationdate="20260618T133402Z">
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133833Z" creationid="amando" creationdate="20260618T133833Z">
         <seg>Druk op de witte resetknop op je Calliope mini om je programma uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eine Variable ist wie ein Rucksack mit Namensschild, den du immer dabei hast und der jederzeit den Inhalt bereithält.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134005Z" creationid="amando" creationdate="20260618T134005Z">
+        <seg>Een variabele is als een rugzak met een naamplaatje, die je altijd bij je hebt en die op elk moment de inhoud bij de hand heeft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Inhaltsverzeichnis</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134210Z" creationid="amando" creationdate="20260618T134210Z">
+        <seg>Inhoudsopgave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>KENNENLERNEN</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133205Z" creationid="amando" creationdate="20260618T133205Z">
@@ -206,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>LED-Matrix&lt;x2/&gt;18&lt;x3/&gt;RGB-LED&lt;x4/&gt;21&lt;x5/&gt;Knöpfe&lt;x6/&gt;24&lt;x7/&gt;Lautsprecher&lt;x8/&gt;25&lt;x9/&gt;Touch-Pins&lt;x10/&gt;26&lt;x11/&gt;Funken&lt;x12/&gt;28</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134218Z" creationid="amando" creationdate="20260618T134218Z">
+        <seg>LED-matrix&lt;x2/&gt;18&lt;x3/&gt;RGB-LED&lt;x4/&gt;21&lt;x5/&gt;Knoppen&lt;x6/&gt;24&lt;x7/&gt;Luidspreker&lt;x8/&gt;25&lt;x9/&gt;Touch-pinnen&lt;x10/&gt;26&lt;x11/&gt;Vonken&lt;x12/&gt;28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>LUFTQUALITÄT</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133107Z" creationid="amando" creationdate="20260618T133107Z">
@@ -214,10 +254,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Licht&lt;x2/&gt;32&lt;x3/&gt;Lautstärke&lt;x4/&gt;34&lt;x5/&gt;Temperatur&lt;x6/&gt;37&lt;x7/&gt;Lage&lt;x8/&gt;40&lt;x9/&gt;Orakel&lt;x10/&gt;42&lt;x11/&gt;Feuchtigkeitssensor&lt;x12/&gt;44&lt;x13/&gt;Pflanzenstation&lt;x14/&gt;45&lt;x15/&gt;Ultraschallsensor&lt;x16/&gt;48&lt;x17/&gt;Personenzähler&lt;x18/&gt;50&lt;x19/&gt;CO2-Sensor&lt;x20/&gt;53&lt;x21/&gt;Luftqualität&lt;x22/&gt;54</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134226Z" creationid="amando" creationdate="20260618T134226Z">
+        <seg>Licht&lt;x2/&gt;32&lt;x3/&gt;Volume&lt;x4/&gt;34&lt;x5/&gt;Temperatuur&lt;x6/&gt;37&lt;x7/&gt;Positie&lt;x8/&gt;40&lt;x9/&gt;Orakel&lt;x10/&gt;42&lt;x11/&gt;Vochtigheidssensor&lt;x12/&gt;44&lt;x13/&gt;Plantstation&lt;x14/&gt;45&lt;x15/&gt;Ultrasone sensor&lt;x16/&gt;48&lt;x17/&gt;Personenteller&lt;x18/&gt;50&lt;x19/&gt;CO2-sensor&lt;x20/&gt;53&lt;x21/&gt;Luchtkwaliteit&lt;x22/&gt;54</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lizenziert unter Creative Commons Namensnennung 4.0 International&lt;x2/&gt;Calliope gGmbH</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134235Z" creationid="amando" creationdate="20260618T134235Z">
+        <seg>Gelicentieerd onder Creative Commons Naamsvermelding 4.0 Internationaal&lt;x2/&gt;Calliope gGmbH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Luftqualität</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114332Z" creationid="amando" creationdate="20260618T114332Z">
         <seg>Luchtkwaliteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit Hilfe der Sensoren kann der Calliope mini unterschiedlichste Werte aus der Umgebung messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134055Z" creationid="amando" creationdate="20260618T134055Z">
+        <seg>Met behulp van de sensoren kan de Calliope mini allerlei verschillende waarden uit de omgeving meten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Sensoren sind wie Sinne.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134046Z" creationid="amando" creationdate="20260618T134046Z">
+        <seg>Sensoren zijn net als zintuigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Teste im Editor und beschreibe.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133218Z" creationid="amando" creationdate="20260618T133218Z">
@@ -366,6 +438,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Was ist Programmieren?&lt;x2/&gt;4&lt;x3/&gt;Der Calliope mini&lt;x4/&gt;8&lt;x5/&gt;Struktogramme&lt;x6/&gt;10&lt;x7/&gt;Programmierumgebung&lt;x8/&gt;12&lt;x9/&gt;Programme übertragen&lt;x10/&gt;16&lt;x11/&gt;Den Calliope mini steuern&lt;x12/&gt;17</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134214Z" creationid="amando" creationdate="20260618T134214Z">
+        <seg>Wat is programmeren?&lt;x2/&gt;4&lt;x3/&gt;De Calliope mini&lt;x4/&gt;8&lt;x5/&gt;Structogrammen&lt;x6/&gt;10&lt;x7/&gt;Programmeeromgeving&lt;x8/&gt;12&lt;x9/&gt;Programma's overzetten&lt;x10/&gt;16&lt;x11/&gt;De Calliope mini bedienen&lt;x12/&gt;17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Weitere Informationen&lt;x2/&gt;58</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134230Z" creationid="amando" creationdate="20260618T134230Z">
+        <seg>Meer informatie&lt;x2/&gt;58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Welche Funktionen haben die einzelnen &lt;x1/&gt;Schaltflächen?</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133222Z" creationid="amando" creationdate="20260618T133214Z">
@@ -378,6 +466,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114307Z" creationid="amando" creationdate="20260618T114307Z">
         <seg>Belangrijke onderdelen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie sieht deine Rakete aus oder ein Gespenst?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134111Z" creationid="amando" creationdate="20260618T134111Z">
+        <seg>Hoe ziet jouw raket eruit, of is het een spook?</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +506,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133932Z" creationid="amando" creationdate="20260618T133932Z">
         <seg>b) &lt;x2/&gt;Stel&lt;x3/&gt; de variabele „Tempo“ vóór je&lt;x4/&gt; aftelling in op de waarde 100.&lt;x5/&gt;c) &lt;x6/&gt;Vervang&lt;x7/&gt; de waarden in de pauzecommando’s&lt;x8/&gt;	door het variabele blok „Tempo“.&lt;x9/&gt;d) &lt;x10/&gt;Stel&lt;x11/&gt; de waarde van de variabele&lt;x12/&gt; „Tempo“ in op 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>symbole und muster</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134103Z" creationid="amando" creationdate="20260618T134103Z">
+        <seg>symbolen en patronen</seg>
       </tuv>
     </tu>
     <tu>
