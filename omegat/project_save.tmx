@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="de-DE">
+        <seg>(parts per million)&lt;x2/&gt;Teilchen in Millionen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114324Z" creationid="amando" creationdate="20260618T114324Z">
+        <seg>(parts per million)&lt;x2/&gt;deeltjes per miljoen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Anstecken und Luftqualität messen!</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113610Z" creationid="amando" creationdate="20260618T113610Z">
         <seg>Aansluiten en de luchtkwaliteit meten!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Anweisungen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114414Z" creationid="amando" creationdate="20260618T114414Z">
+        <seg>Instructies</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hier ist Platz für dein Struktogramm:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114340Z" creationid="amando" creationdate="20260618T114340Z">
+        <seg>Hier is ruimte voor je structogram:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113700Z" creationid="amando" creationdate="20260618T113700Z">
         <seg>Importeer de benodigde programmablokken:&lt;x2/&gt;CO2-sensor-SCD40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Luftqualität</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114332Z" creationid="amando" creationdate="20260618T114332Z">
+        <seg>Luchtkwaliteit</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Relative Humidity&lt;x2/&gt;relative Luftfeuchtigkeit</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114439Z" creationid="amando" creationdate="20260618T114315Z">
+        <seg>Relative Humidity&lt;x2/&gt;relatieve luchtvochtigheid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schleifen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114422Z" creationid="amando" creationdate="20260618T114422Z">
+        <seg>Slijpen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Schließe die Platine an.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113643Z" creationid="amando" creationdate="20260618T113643Z">
@@ -74,6 +122,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113635Z" creationid="amando" creationdate="20260618T113635Z">
         <seg>Gebruik de CO2-printplaat om de luchtkwaliteit te meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wichtige Blöcke:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114307Z" creationid="amando" creationdate="20260618T114307Z">
+        <seg>Belangrijke onderdelen:</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
