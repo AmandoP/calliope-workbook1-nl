@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;x2/&gt;Setze die unten stehenden Bilder der Backanleitung in die richtige Reihenfolge, indem du sie von 1-5 durchnummerierst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134320Z" creationid="amando" creationdate="20260618T134320Z">
+        <seg>&lt;x2/&gt;Zet de onderstaande afbeeldingen van de bakinstructies in de juiste volgorde door ze te nummeren van 1 tot en met 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;x2/&gt;Starte den Simulator und beschreibe, was im Simulator passiert.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133235Z" creationid="amando" creationdate="20260618T133235Z">
         <seg>&lt;x2/&gt;Start de simulator en beschrijf wat er in de simulator gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x3/&gt;a) Bringe die einzelnen Schritte in die richtige Reihenfolge.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134423Z" creationid="amando" creationdate="20260618T134423Z">
+        <seg>&lt;x3/&gt;a) Zet de afzonderlijke stappen in de juiste volgorde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x4/&gt;b) Kreise den Schritt ein, der wiederholt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134427Z" creationid="amando" creationdate="20260618T134427Z">
+        <seg>&lt;x4/&gt;b) Omcirkel de stap die herhaald wordt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Andere Wiederholungen sind an eine Bedingung oder ein anderes Ereignis geknüpft.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134513Z" creationid="amando" creationdate="20260618T134513Z">
+        <seg>Andere herhalingen zijn gekoppeld aan een voorwaarde of een andere gebeurtenis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Anstecken und Luftqualität messen!</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113610Z" creationid="amando" creationdate="20260618T113610Z">
@@ -86,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Beim Programmieren werden Algorithmen, die der Computer ausführen soll, in Programme übersetzt, die der Computer versteht.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134402Z" creationid="amando" creationdate="20260618T134402Z">
+        <seg>Bij het programmeren worden algoritmen die de computer moet uitvoeren, vertaald naar programma's die de computer begrijpt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Beim Start erscheint ein Herz auf der LED-Matrix.&lt;x2/&gt;Lasse „Ich liebe Berlin!“ über die LED-Matrix laufen.&lt;x3/&gt;Lasse dauerhaft ein Herz auf der LED-Matrix blinken.&lt;x4/&gt;Tipp:&lt;x5/&gt; Tippe Dauerhaft in die Suche ein!&lt;x6/&gt;Lasse eine Rakete auf der LED-Matrix steigen.&lt;x7/&gt;Tipp:&lt;x8/&gt; Jetzt musst du denken, wie ein Trickfilmprofi&lt;x9/&gt;-  in Einzelbildern!&lt;x10/&gt;Bring die Programmblöcke in die richtige Reihenfolge&lt;x11/&gt;und lass einen Countdown von 3-2-1-0 anzeigen.&lt;x12/&gt;a) Füge hinter jeder Zahl eine &lt;x13/&gt;Pause&lt;x14/&gt; ein.&lt;x15/&gt;b) &lt;x16/&gt;Verlängere&lt;x17/&gt; die Pausen indem du den Wert der Millisekunden (MS) erhöhst.&lt;x18/&gt;c) &lt;x19/&gt;Speichere&lt;x20/&gt; dein Programm unter dem Namen „Raketenstart“.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133431Z" creationid="amando" creationdate="20260618T133427Z">
@@ -102,10 +142,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bringe die einzelnen Schritte in die richtige Reihenfolge.&lt;x2/&gt;Kreise die Schritte ein, die wiederholt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134517Z" creationid="amando" creationdate="20260618T134517Z">
+        <seg>Zet de afzonderlijke stappen in de juiste volgorde.&lt;x2/&gt;Omcirkel de stappen die herhaald worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>CO2-Sensor</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113602Z" creationid="amando" creationdate="20260618T113602Z">
         <seg>CO₂-sensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dabei spielt die Reihenfolge der Anweisungen eine entscheidende Rolle.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134304Z" creationid="amando" creationdate="20260618T134304Z">
+        <seg>Daarbij speelt de volgorde van de instructies een doorslaggevende rol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dafür werden klare und detaillierte Anweisungen benötigt, die nacheinander ausgeführt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134300Z" creationid="amando" creationdate="20260618T134300Z">
+        <seg>Hiervoor zijn duidelijke en gedetailleerde instructies nodig, die stap voor stap moeten worden uitgevoerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Computer benötigt diese klaren, eindeutigen Anweisungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134410Z" creationid="amando" creationdate="20260618T134410Z">
+        <seg>De computer heeft deze duidelijke, eenduidige instructies nodig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die LED-Matrix ist der &lt;x2/&gt;Bildschirm&lt;x3/&gt; des Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133402Z" creationid="amando" creationdate="20260618T133402Z">
@@ -126,10 +198,42 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Sammlung dieser Handlungsanweisungen wird Programm oder Algorithmus genannt.&lt;x2/&gt;In deinem Alltag gibt es viele Abläufe, die du hintereinander ausführst und bei denen du auf die Reihenfolge achten musst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134308Z" creationid="amando" creationdate="20260618T134308Z">
+        <seg>De verzameling van deze instructies wordt een programma of algoritme genoemd.&lt;x2/&gt;In je dagelijks leven zijn er veel handelingen die je achter elkaar uitvoert en waarbij je op de volgorde moet letten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Drücke die weiße Reset Taste auf deinem Calliope mini, um dein Programm auszuführen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133833Z" creationid="amando" creationdate="20260618T133833Z">
         <seg>Druk op de witte resetknop op je Calliope mini om je programma uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst ein Programm mit einem Rezept vergleichen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134312Z" creationid="amando" creationdate="20260618T134312Z">
+        <seg>Je kunt een programma vergelijken met een recept.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du möchtest ein leckeres Marmeladenbrot zum Frühstück?&lt;x2/&gt;Bringe die Anweisungen in die richtige Reihenfolge.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134337Z" creationid="amando" creationdate="20260618T134337Z">
+        <seg>Wil je een lekker broodje met jam als ontbijt?&lt;x2/&gt;Zet de instructies in de juiste volgorde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Algorithmus ist eine Verarbeitungsvorschrift mit eindeutig ausführbaren Anweisungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134406Z" creationid="amando" creationdate="20260618T134406Z">
+        <seg>Een algoritme is een verwerkingsvoorschrift met eenduidige, uitvoerbare instructies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +278,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Es gibt Abläufe, die durch getroffene Entscheidungen unterschiedlich verlaufen.&lt;x2/&gt;Verbinde die &lt;x3/&gt;Bedingungen (wenn)&lt;x4/&gt; mit der passenden &lt;x5/&gt;Entscheidung (dann).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134414Z" creationid="amando" creationdate="20260618T134414Z">
+        <seg>Er zijn processen die, afhankelijk van de genomen beslissingen, op verschillende manieren verlopen.&lt;x2/&gt;Koppel de &lt;x3/&gt;voorwaarden (als)&lt;x4/&gt; aan de juiste &lt;x5/&gt;beslissing (dan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es lassen sich Texte, Symbole und sogar Animationen anzeigen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133410Z" creationid="amando" creationdate="20260618T133410Z">
         <seg>Er kunnen teksten, symbolen en zelfs animaties worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Formuliere fünf Anweisungen, die den Ablauf des Zähneputzens beschreiben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134341Z" creationid="amando" creationdate="20260618T134341Z">
+        <seg>Formuleer vijf instructies die beschrijven hoe het tandenpoetsen in zijn werk gaat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +326,86 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ich beiße ein Stück der Banane ab.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134500Z" creationid="amando" creationdate="20260618T134500Z">
+        <seg>Ik bijt een stukje van de banaan af.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich entferne die Schale.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134452Z" creationid="amando" creationdate="20260618T134452Z">
+        <seg>Ik haal de schil eraf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich gehe zur Tür.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134435Z" creationid="amando" creationdate="20260618T134435Z">
+        <seg>Ik loop naar de deur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich höre ein „Herein“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134444Z" creationid="amando" creationdate="20260618T134444Z">
+        <seg>Ik hoor iemand ‘Kom binnen’ zeggen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich kaue.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134504Z" creationid="amando" creationdate="20260618T134504Z">
+        <seg>Ik kauw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich nehme die Banane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134431Z" creationid="amando" creationdate="20260618T134431Z">
+        <seg>Ik neem de banaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich schlucke hinunter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134509Z" creationid="amando" creationdate="20260618T134509Z">
+        <seg>Ik slik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich trete ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134448Z" creationid="amando" creationdate="20260618T134448Z">
+        <seg>Ik kom binnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich wiederhole drei Mal:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134439Z" creationid="amando" creationdate="20260618T134439Z">
+        <seg>Ik herhaal dit drie keer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich wiederhole folgende drei Vorgänge, bis die Banane aufgegessen ist:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134456Z" creationid="amando" creationdate="20260618T134456Z">
+        <seg>Ik herhaal de volgende drie handelingen totdat de banaan op is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113700Z" creationid="amando" creationdate="20260618T113700Z">
@@ -214,10 +414,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In vielen Abläufen kannst du wiederkehrende Muster erkennen.&lt;x2/&gt;Manche Wiederholungen haben eine definierte Anzahl.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134419Z" creationid="amando" creationdate="20260618T134419Z">
+        <seg>In veel processen kun je terugkerende patronen herkennen.&lt;x2/&gt;Sommige herhalingen hebben een vast aantal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Inhaltsverzeichnis</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134210Z" creationid="amando" creationdate="20260618T134210Z">
         <seg>Inhoudsopgave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Je genauer die Anweisungen, desto präziser ist das Ergebnis.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134316Z" creationid="amando" creationdate="20260618T134316Z">
+        <seg>Hoe gedetailleerder de instructies, hoe nauwkeuriger het resultaat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +522,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133850Z" creationid="amando" creationdate="20260618T133850Z">
         <seg>Alleen door te testen en uit te proberen kom je erachter welke snelheid voor jou de juiste is.&lt;x2/&gt;Programmeurs houden erg van gemak.&lt;x3/&gt;In plaats van de snelheid bij elke pauzecommando steeds opnieuw aan te passen, kun je&lt;x4/&gt;het jezelf veel gemakkelijker maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmieren heißt, einem Computer (z.B. deinem Calliope mini) Schritt-für-Schritt zu sagen, was er tun soll.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134255Z" creationid="amando" creationdate="20260618T134255Z">
+        <seg>Programmeren betekent dat je een computer (bijvoorbeeld je Calliope mini) stap voor stap vertelt wat hij moet doen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Was ist Programmieren?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134247Z" creationid="amando" creationdate="20260618T134247Z">
+        <seg>Wat is programmeren?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Was ist Programmieren?&lt;x2/&gt;4&lt;x3/&gt;Der Calliope mini&lt;x4/&gt;8&lt;x5/&gt;Struktogramme&lt;x6/&gt;10&lt;x7/&gt;Programmierumgebung&lt;x8/&gt;12&lt;x9/&gt;Programme übertragen&lt;x10/&gt;16&lt;x11/&gt;Den Calliope mini steuern&lt;x12/&gt;17</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134214Z" creationid="amando" creationdate="20260618T134214Z">
@@ -458,6 +690,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133222Z" creationid="amando" creationdate="20260618T133214Z">
         <seg>Welke functies hebben de afzonderlijke &lt;x1/&gt;knoppen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Vorgänge fallen dir noch ein, bei denen sich bestimmte Handlungen wiederholen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134521Z" creationid="amando" creationdate="20260618T134521Z">
+        <seg>Welke situaties kun je nog meer bedenken waarin bepaalde handelingen zich herhalen?</seg>
       </tuv>
     </tu>
     <tu>
