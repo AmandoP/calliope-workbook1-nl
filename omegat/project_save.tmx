@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Calliope mini misst die Entfernung - im Geheimen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111444Z" creationid="amando" creationdate="20260619T111444Z">
+        <seg>De Calliope mini meet de afstand – in het geheim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Der Computer ...</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134701Z" creationid="amando" creationdate="20260618T134701Z">
@@ -890,6 +898,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134337Z" creationid="amando" creationdate="20260618T134337Z">
         <seg>Wil je een lekker broodje met jam als ontbijt?&lt;x2/&gt;Zet de instructies in de juiste volgorde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du schätzt die Entfernung und der Calliope mini löst auf und zeigt die gemessene Entfernung an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111448Z" creationid="amando" creationdate="20260619T111448Z">
+        <seg>Je schat de afstand en de Calliope mini voert de berekening uit en geeft de gemeten afstand weer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Definiere eine Variable „komplett” mit der maximalen Personenanzahl und eine Variable für die Anzahl der Personen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111546Z" creationid="amando" creationdate="20260619T111546Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Definieer een variabele „komplett” met het maximale aantal personen en een variabele voor het aantal personen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T111202Z" creationid="amando" creationdate="20260619T111202Z">
@@ -1370,6 +1394,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095111Z" creationid="amando" creationdate="20260619T095111Z">
         <seg>Voer de URL in de adresbalk van de browser in - &lt;x2/&gt;makecode.calliope.cc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gibt die gemessene Entfernung in Zentimetern aus!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111419Z" creationid="amando" creationdate="20260619T111419Z">
+        <seg>Geeft de gemeten afstand weer in centimeters!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gibt die gemessene Entfernung in Zentimetern aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111423Z" creationid="amando" creationdate="20260619T111423Z">
+        <seg>Geeft de gemeten afstand weer in centimeters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1738,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134210Z" creationid="amando" creationdate="20260618T134210Z">
         <seg>Inhoudsopgave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ist die Klasse vollzählig?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111550Z" creationid="amando" creationdate="20260619T111550Z">
+        <seg>Is de klas compleet?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2150,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Objekte</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111517Z" creationid="amando" creationdate="20260619T111517Z">
+        <seg>Objecten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Oder scanne den&lt;x2/&gt;QR-Code.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095112Z" creationid="amando" creationdate="20260619T095112Z">
@@ -2162,6 +2218,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103836Z" creationid="amando" creationdate="20260619T103836Z">
         <seg>Optimaliseer je programma door herhalingen te herkennen en herhalingslussen te gebruiken, in plaats van hetzelfde commando meerdere keren achter elkaar uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Optimierung:&lt;x2/&gt;Mache eine Pause, wenn eine Person den Klassenraum betritt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111559Z" creationid="amando" creationdate="20260619T111559Z">
+        <seg>Optimalisatie:&lt;x2/&gt;Neem even pauze als er iemand het klaslokaal binnenkomt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +2266,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105527Z" creationid="amando" creationdate="20260619T105527Z">
         <seg>Kleur het sjabloon in of teken zelf een ijsvorm en versier de voorkant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Personenzähler</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111534Z" creationid="amando" creationdate="20260619T111534Z">
+        <seg>Bezoekerssteller</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Programmiere ein Schätzspiel, das die Entfernung zwischen zwei Objekten misst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111440Z" creationid="amando" creationdate="20260619T111440Z">
+        <seg>Programmeer een schattingsspel dat de afstand tussen twee objecten meet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Programmiere eine Pflanzenstation, die dir hilft, die Pflanzen im Klassenzimmer bestmöglich zu versorgen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T111132Z" creationid="amando" creationdate="20260619T111132Z">
@@ -2274,6 +2354,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105032Z" creationid="amando" creationdate="20260619T105032Z">
         <seg>Programmeer een geluidsmeter in MakeCode en zet je programma over naar de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere einen Personenzähler, um die Personen zu zählen, die den Klassenraum betreten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111542Z" creationid="amando" creationdate="20260619T111542Z">
+        <seg>Programmeer een personensteller om het aantal personen te tellen dat het klaslokaal binnenkomt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Schau dir folgende Anweisungen an, bringe sie in eine sinnvolle Reihenfolge und füge sie in deinen Programmcode ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111603Z" creationid="amando" creationdate="20260619T111603Z">
+        <seg>Bekijk de volgende instructies, zet ze in de juiste volgorde en voeg ze toe aan je programmacode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Schau mal, was dir einfällt.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104417Z" creationid="amando" creationdate="20260619T104417Z">
@@ -2526,10 +2622,42 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Setze den Personenzähler mit den Knöpfen A+B zurück auf 0.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111649Z" creationid="amando" creationdate="20260619T111649Z">
+        <seg>Zet de personen-teller met de knoppen A+B terug op 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Setze die Programmblöcke in eine sinnvolle Reihenfolge, sodass folgendes Programm ausgeführt wird: &lt;x2/&gt;Dauerhaft erscheint ein „?“ auf der LED-Matrix.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111452Z" creationid="amando" creationdate="20260619T111452Z">
+        <seg>Zet de programmablokken in een logische volgorde, zodat het volgende programma wordt uitgevoerd: &lt;x2/&gt;Er verschijnt continu een „?“ op de LED-matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Sie sind in bunte Kategorien eingeordnet.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095129Z" creationid="amando" creationdate="20260619T095129Z">
         <seg>Ze zijn ingedeeld in kleurrijke categorieën.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sind alle Personen im Raum, springt die RGB-LED auf grün und es kann losgehen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111640Z" creationid="amando" creationdate="20260619T111640Z">
+        <seg>Zodra iedereen in de ruimte is, gaat het RGB-lampje op groen branden en kan het beginnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sind noch nicht alle Personen im Raum, leuchtet die RGB-LED rot.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111636Z" creationid="amando" creationdate="20260619T111636Z">
+        <seg>Als nog niet iedereen in de ruimte aanwezig is, brandt de RGB-led rood.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2774,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Tipp:&lt;x2/&gt; Stelle die Variable &lt;x3/&gt;„komplett“&lt;x4/&gt; erst mal auf „3“, dann kannst du dein Programm einfacher testen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111607Z" creationid="amando" creationdate="20260619T111607Z">
+        <seg>Tip:&lt;x2/&gt; Stel de variabele &lt;x3/&gt;„komplett“&lt;x4/&gt; eerst in op „3“, dan kun je je programma gemakkelijker testen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Touch-Pins</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134807Z" creationid="amando" creationdate="20260618T134807Z">
@@ -3006,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wenn der Knopf A des Calliope mini gedrückt wird, wird der gemessene Wert des Ultraschallsensors gerundet und in einer Variablen gespeichert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111456Z" creationid="amando" creationdate="20260619T111456Z">
+        <seg>Wanneer knop A van de Calliope mini wordt ingedrukt, wordt de gemeten waarde van de ultrasone sensor afgerond en in een variabele opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wenn du eine Idee hast, mache einen Plan.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T135000Z" creationid="amando" creationdate="20260618T135000Z">
@@ -3166,6 +3310,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wird Knopf B gedrückt, wird der Wert der Variablen angezeigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111501Z" creationid="amando" creationdate="20260619T111501Z">
+        <seg>Als er op knop B wordt gedrukt, wordt de waarde van de variabele weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wird eine Entfernung unter 10 cm gemessen, erhöhe den Personenzähler um 1.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111628Z" creationid="amando" creationdate="20260619T111628Z">
+        <seg>Als er een afstand van minder dan 10 cm wordt gemeten, verhoog dan het aantal personen met 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Woran hast du länger getüftelt?</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133116Z" creationid="amando" creationdate="20260618T133116Z">
@@ -3246,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>b) Miss dauerhaft die Entfernung.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111624Z" creationid="amando" creationdate="20260619T111624Z">
+        <seg>b) Schat de afstand steeds verkeerd in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>b) Setze die Variable „Tempo“ vor deinem Countdown auf den Wert 100.&lt;x2/&gt;c) Ersetze die Werte in den Pause Befehlen durch den Variablen Block „Tempo“.&lt;x3/&gt;d) Setze den Wert der Variable „Tempo“ auf 500.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T101239Z" creationid="amando" creationdate="20260619T101239Z">
@@ -3278,10 +3446,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>c) Gleiche die gezählten Personen mit der Variable „komplett“ ab.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111632Z" creationid="amando" creationdate="20260619T111632Z">
+        <seg>c) Vergelijk het aantal getelde personen met de variabele „volledig“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>d) Wird der Knopf A gedrückt, lasse dir den aktuellen Wert des Personenzählers anzeigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111645Z" creationid="amando" creationdate="20260619T111645Z">
+        <seg>d) Als je op knop A drukt, laat je de huidige stand van de personensteller weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>d) Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105650Z" creationid="amando" creationdate="20260619T105650Z">
         <seg>d) Zet je programma over naar de Calliope mini en probeer het uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>e) Übertrage dein Programm auf den Calliope mini und probiere deinen Personenzähler aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111620Z" creationid="amando" creationdate="20260619T111620Z">
+        <seg>e) Zet je programma over naar de Calliope mini en test je personensteller uit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3306,6 +3498,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134554Z" creationid="amando" creationdate="20260618T134554Z">
         <seg>zet ik de muziek hard aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>schätzspiel</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111436Z" creationid="amando" creationdate="20260619T111436Z">
+        <seg>schattingsspel</seg>
       </tuv>
     </tu>
     <tu>
@@ -3398,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Überprüfe mit dem Ultraschallsensor, ob alle Kinder wieder im Klassenraum sind.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111538Z" creationid="amando" creationdate="20260619T111538Z">
+        <seg>Controleer met de ultrasone sensor of alle kinderen weer in het klaslokaal zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Übersicht</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095117Z" creationid="amando" creationdate="20260619T095117Z">
@@ -3434,6 +3642,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T110846Z" creationid="amando" creationdate="20260619T110846Z">
         <seg>Zet je programma over naar de Calliope mini&lt;x2/&gt;en probeer het eens uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übertrage den Programmcode auf deinen Calliope mini, probiere dein Schätzspiel aus und dokumentiere die Ergebnisse in der Tabelle.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111505Z" creationid="amando" creationdate="20260619T111505Z">
+        <seg>Zet de programmacode over naar je Calliope mini, probeer je raadspelletje uit en noteer de resultaten in de tabel.</seg>
       </tuv>
     </tu>
     <tu>
