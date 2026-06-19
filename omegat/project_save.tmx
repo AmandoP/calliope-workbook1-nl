@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Aktion</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105109Z" creationid="amando" creationdate="20260619T105109Z">
+        <seg>Actie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Alle 25 LEDs können rot leuchten.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133406Z" creationid="amando" creationdate="20260618T133406Z">
@@ -246,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ausgegeben wird die Lautstärke im Wertebereich 0 - 255.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105105Z" creationid="amando" creationdate="20260619T105105Z">
+        <seg>Het volume wordt weergegeven in het bereik van 0 tot 255.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Autorin und Autor:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Begleitendes Zusatzmaterial inklusive Leitfäden für den Unterricht, Programmcodes und Lösungen können auf der Webseite aufgerufen werden: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134239Z" creationid="amando" creationdate="20260618T134239Z">
@@ -262,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bastel dir ein eigenes Smart-Licht: Klatsche in die Hände und das Licht geht an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105220Z" creationid="amando" creationdate="20260619T105220Z">
+        <seg>Maak je eigen slimme lamp: klap in je handen en het licht gaat aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bausteine eines Computers</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113534Z" creationid="amando" creationdate="20260618T113534Z">
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103652Z" creationid="amando" creationdate="20260619T103652Z">
         <seg>Voer de volgende opdrachten uit in MakeCode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Befestige zwei Gummibänder an&lt;x2/&gt;Pin P0 und P3 deines Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105241Z" creationid="amando" creationdate="20260619T105241Z">
+        <seg>Bevestig twee elastiekjes aan&lt;x2/&gt;pin P0 en P3 van je Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +346,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095416Z" creationid="amando" creationdate="20260619T095416Z">
         <seg>Geef je programma een naam en klik op ‘Downloaden’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Benutze dafür am besten Klebeband.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105237Z" creationid="amando" creationdate="20260619T105237Z">
+        <seg>Gebruik daarvoor het liefst plakband.</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +426,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104635Z" creationid="amando" creationdate="20260619T104635Z">
         <seg>Als je op knop A drukt, wordt&lt;x2/&gt;het bericht verzonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das Mikrofon ist der Lautstärkesensor des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105015Z" creationid="amando" creationdate="20260619T105015Z">
+        <seg>De microfoon fungeert als geluidssensor van de Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +594,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095536Z" creationid="amando" creationdate="20260619T095536Z">
         <seg>De LED-matrix is het scherm van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die LED-Matrix kannst du jetzt durch das Fenster sehen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105249Z" creationid="amando" creationdate="20260619T105249Z">
+        <seg>Je kunt de LED-matrix nu door het raam zien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm&lt;x3/&gt;b) Programmiere anhand deines Struktogramms&lt;x4/&gt;Verwende eine „wenn dann … ansonsten” Abfrage, um die Aktionen zu steuern.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105143Z" creationid="amando" creationdate="20260619T105143Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Maak een structogram&lt;x3/&gt;b) Programmeer aan de hand van je structogram&lt;x4/&gt;Gebruik een „als-dan … anders”-conditie om de acties te sturen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Gehe schrittweise vor!</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095159Z" creationid="amando" creationdate="20260619T095159Z">
@@ -1350,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ist diese Bedingung nicht erfüllt, schalte alle LEDs der Matrix aus.&lt;x6/&gt;Ausgabe:&lt;x7/&gt;Alle 25 LEDs der LED-Matrix werden ein- und ausgeschaltet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105138Z" creationid="amando" creationdate="20260619T105138Z">
+        <seg>Als niet aan deze voorwaarde wordt voldaan, schakel dan alle LED's van de matrix uit.&lt;x6/&gt;Uitvoer:&lt;x7/&gt;Alle 25 LED's van de LED-matrix worden in- en uitgeschakeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>JETZT</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095435Z" creationid="amando" creationdate="20260619T095435Z">
@@ -1362,6 +1434,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134316Z" creationid="amando" creationdate="20260618T134316Z">
         <seg>Hoe gedetailleerder de instructies, hoe nauwkeuriger het resultaat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jetzt wird es clever!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105151Z" creationid="amando" creationdate="20260619T105151Z">
+        <seg>Nu wordt het pas echt slim!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,6 +1474,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104401Z" creationid="amando" creationdate="20260619T104401Z">
         <seg>Piano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Klebe von innen ein Stück Transparentpapier über die große Öffnung.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105232Z" creationid="amando" creationdate="20260619T105232Z">
+        <seg>Plak van binnenuit een stukje transparant papier over de grote opening.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1582,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Lautstärke</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105011Z" creationid="amando" creationdate="20260619T105011Z">
+        <seg>Volume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lege den Calliope mini in den Karton und führe die Gummibänder durch die Löcher auf der Vorderseite.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105245Z" creationid="amando" creationdate="20260619T105245Z">
+        <seg>Leg de Calliope mini in de doos en haal de elastiekjes door de gaatjes aan de voorkant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Lerne den Calliope mini kennen.&lt;x2/&gt;Entwickle kreative Ideen und produziere eigene Prototypen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134611Z" creationid="amando" creationdate="20260618T134611Z">
@@ -1590,10 +1694,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Miss an den verschiedenen Orten erneut, ergänze deine Tabelle&lt;x2/&gt;aus Aufgabe 2 und gleich deine Ergebnisse ab.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105003Z" creationid="amando" creationdate="20260619T105003Z">
+        <seg>Meet opnieuw op de verschillende locaties, vul je tabel&lt;x2/&gt;uit opdracht 2 aan en vergelijk je resultaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mit Hilfe der Sensoren kann der Calliope mini unterschiedlichste Werte aus der Umgebung messen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134055Z" creationid="amando" creationdate="20260618T134055Z">
         <seg>Met behulp van de sensoren kan de Calliope mini allerlei verschillende waarden uit de omgeving meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem Lautstärkesensor kann die Umgebungslautstärke gemessen werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105019Z" creationid="amando" creationdate="20260619T105019Z">
+        <seg>Met de geluidssensor kan het omgevingsgeluid worden gemeten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1742,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Programmiere einen Lautstärkemesser in MakeCode und übertrage dein Programm auf den Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105032Z" creationid="amando" creationdate="20260619T105032Z">
+        <seg>Programmeer een geluidsmeter in MakeCode en zet je programma over naar de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Programmieren heißt, einem Computer (z.B. deinem Calliope mini) Schritt-für-Schritt zu sagen, was er tun soll.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134255Z" creationid="amando" creationdate="20260618T134255Z">
@@ -1822,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beschreibe, was passiert, wenn die gemessene Lautstärke 10 oder 30 ist.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105028Z" creationid="amando" creationdate="20260619T105028Z">
+        <seg>Bekijk de programmacode en beschrijf wat er gebeurt als het gemeten volume 10 of 30 is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Schau dir den Programmcode an und beschreibe, was passiert.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104057Z" creationid="amando" creationdate="20260619T104057Z">
@@ -1874,6 +2010,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113643Z" creationid="amando" creationdate="20260618T113643Z">
         <seg>Sluit de printplaat aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schneide in die Vorderseite ein Fenster für die LED-Matrix und die RGB-LED und daneben zwei Löcher.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105228Z" creationid="amando" creationdate="20260619T105228Z">
+        <seg>Zaag in de voorkant een venster voor de LED-matrix en de RGB-LED en daarnaast twee gaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schreibe ein Programm für eine Lampe, die durch „in die Hände klatschen” angeschaltet wird und nach 5 Sekunden automatisch wieder ausgeht.&lt;x2/&gt;Eingabe:&lt;x3/&gt;Das Mikrofon (Lautstärkesensor) misst die Umgebungslautstärke.&lt;x4/&gt;Verarbeitung: &lt;x5/&gt;Ist der Wert der Lautstärke größer als 20, schalte alle LEDs der Matrix an und pausiere für 5 Sekunden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105134Z" creationid="amando" creationdate="20260619T105134Z">
+        <seg>Schrijf een programma voor een lamp die wordt ingeschakeld door ‘in de handen te klappen’ en na 5 seconden automatisch weer uitgaat.&lt;x2/&gt;Invoer:&lt;x3/&gt;De microfoon (geluidssensor) meet het omgevingsgeluid.&lt;x4/&gt;Verwerking: &lt;x5/&gt;Als de geluidssterkte hoger is dan 20, schakel dan alle leds van de matrix in en wacht 5 seconden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Suche dir einen kleinen Karton, in den der Calliope mini hineinpasst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105224Z" creationid="amando" creationdate="20260619T105224Z">
+        <seg>Zoek een klein kartonnen doosje waarin de Calliope mini past.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Taste A</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134820Z" creationid="amando" creationdate="20260618T134820Z">
@@ -2010,6 +2170,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134816Z" creationid="amando" creationdate="20260618T134816Z">
         <seg>Toets B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Taste dich an den Wert der dich umgebenen Lautstärke heran, indem du eine Abfrage erstellst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105023Z" creationid="amando" creationdate="20260619T105023Z">
+        <seg>Probeer de geluidssterkte om je heen te bepalen door een verzoek in te dienen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,10 +2198,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Teste im Simulator.&lt;x2/&gt;Du kannst die Lautstärke mit dem Regler selbst verstellen und so das Programmverhalten bei unterschiedlichen Lärmpegeln testen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105208Z" creationid="amando" creationdate="20260619T105208Z">
+        <seg>Tests in de simulator.&lt;x2/&gt;Je kunt het volume zelf aanpassen met de schuifregelaar en zo het gedrag van het programma bij verschillende geluidsniveaus testen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Teste sie im Editor und notiere die Eigenschaften.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095207Z" creationid="amando" creationdate="20260619T095207Z">
         <seg>Test ze in de editor en noteer de eigenschappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Teste verschiedene Geräusche und dokumentiere die Lautstärke in der Tabelle.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105036Z" creationid="amando" creationdate="20260619T105036Z">
+        <seg>Probeer verschillende geluiden uit en noteer het geluidsniveau in de tabel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2398,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Was fällt dir noch ein?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105118Z" creationid="amando" creationdate="20260619T105118Z">
+        <seg>Wat kun je nog meer bedenken?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Was ist Programmieren?</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134247Z" creationid="amando" creationdate="20260618T134247Z">
@@ -2318,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wert</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105113Z" creationid="amando" creationdate="20260619T105113Z">
+        <seg>Waarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wert 1</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104856Z" creationid="amando" creationdate="20260619T104856Z">
@@ -2330,6 +2530,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104900Z" creationid="amando" creationdate="20260619T104900Z">
         <seg>Waarde 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wichtig!&lt;x2/&gt; Verwendest du als Ausgabe der gemessenen Werte die LED-Matrix, können die Werte verfälscht sein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104959Z" creationid="amando" creationdate="20260619T104959Z">
+        <seg>Belangrijk!&lt;x2/&gt; Als je de LED-matrix gebruikt om de gemeten waarden weer te geven, kunnen de waarden vertekend zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,10 +2814,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Übertrage dein Programm auf den Calliope mini und probiere es aus.&lt;x2/&gt;Um das Licht besser zu streuen, kannst du dein Smart-Licht auch in eine transparente Frühstücksbrottüte legen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105147Z" creationid="amando" creationdate="20260619T105147Z">
+        <seg>Zet je programma over naar de Calliope mini en probeer het eens uit.&lt;x2/&gt;Om het licht beter te verspreiden, kun je je slimme lampje ook in een doorzichtige broodzak doen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Übungen</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103848Z" creationid="amando" creationdate="20260619T103848Z">
         <seg>Oefeningen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• Klatschen&lt;x2/&gt;• Musik&lt;x3/&gt;• Trampeln</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105122Z" creationid="amando" creationdate="20260619T105122Z">
+        <seg>• Klappen&lt;x2/&gt;• Muziek&lt;x3/&gt;• Stampen</seg>
       </tuv>
     </tu>
     <tu>
