@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>3 Orangen bereitlegen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095026Z" creationid="amando" creationdate="20260619T095026Z">
+        <seg>Zorg dat je 3 sinaasappels bij de hand hebt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;x2/&gt;Setze die unten stehenden Bilder der Backanleitung in die richtige Reihenfolge, indem du sie von 1-5 durchnummerierst.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134320Z" creationid="amando" creationdate="20260618T134320Z">
@@ -238,6 +246,30 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Damit der Calliope mini deine Anweisungen versteht, müssen diese in der passenden Sprache geschrieben werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095109Z" creationid="amando" creationdate="20260619T095109Z">
+        <seg>Om ervoor te zorgen dat de Calliope mini je instructies begrijpt, moeten deze in de juiste taal zijn geschreven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dazu brauchst du eine Programmierumgebung - auch Editor genannt.&lt;x2/&gt;Eine passende Programmierumgebung ist der Editor MakeCode.&lt;x3/&gt;Du findest ihn unter folgender Internetadresse:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095110Z" creationid="amando" creationdate="20260619T095110Z">
+        <seg>Daarvoor heb je een programmeeromgeving nodig – ook wel editor genoemd.&lt;x2/&gt;Een geschikte programmeeromgeving is de editor MakeCode.&lt;x3/&gt;Je vindt deze op het volgende internetadres:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Deine bearbeiteten Projekte findest du auf der Startseite unter &lt;x2/&gt;„Meine Projekte“&lt;x3/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095216Z" creationid="amando" creationdate="20260619T095216Z">
+        <seg>Je bewerkte projecten vind je op de startpagina onder &lt;x2/&gt;„Mijn projecten“&lt;x3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Den Inhalt des Rucksacks kannst du ändern und über den Namen des Rucksacks abfragen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134009Z" creationid="amando" creationdate="20260618T134009Z">
@@ -270,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Programmbereich kann auch als Bühne angesehen werden, hier entwickelst du dein Programm, in dem du die einzelnen Programmblöcke platzierst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095134Z" creationid="amando" creationdate="20260619T095134Z">
+        <seg>Het programmagedeelte kan ook als een podium worden beschouwd; hier ontwikkel je je programma door de afzonderlijke programmablokken te plaatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die LED-Matrix ist der &lt;x2/&gt;Bildschirm&lt;x3/&gt; des Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133402Z" creationid="amando" creationdate="20260618T133402Z">
@@ -282,6 +322,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134308Z" creationid="amando" creationdate="20260618T134308Z">
         <seg>De verzameling van deze instructies wordt een programma of algoritme genoemd.&lt;x2/&gt;In je dagelijks leven zijn er veel handelingen die je achter elkaar uitvoert en waarbij je op de volgorde moet letten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dort steht rechts neben dem USB-Anschluss die Versionsnummer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095142Z" creationid="amando" creationdate="20260619T095142Z">
+        <seg>Daar staat rechts naast de USB-aansluiting het versienummer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +354,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134312Z" creationid="amando" creationdate="20260618T134312Z">
         <seg>Je kunt een programma vergelijken met een recept.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst jederzeit die Version anpassen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095132Z" creationid="amando" creationdate="20260619T095132Z">
+        <seg>Je kunt de versie op elk moment aanpassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ein neues Projekt starten&lt;x2/&gt;Klicke auf die türkise Schaltfläche mit dem großen „+“ Zeichen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095137Z" creationid="amando" creationdate="20260619T095137Z">
+        <seg>Een nieuw project starten&lt;x2/&gt;Klik op de turquoise knop met het grote „+“-teken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Eine Variable ist wie ein Rucksack mit Namensschild, den du immer dabei hast und der jederzeit den Inhalt bereithält.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134005Z" creationid="amando" creationdate="20260618T134005Z">
@@ -366,6 +430,30 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Entscheidung/Abfrage</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095008Z" creationid="amando" creationdate="20260619T095008Z">
+        <seg>Beslissing/Vraag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ergänze das Struktogramm um zwei Entscheidungen und formuliere passende Anweisungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095100Z" creationid="amando" creationdate="20260619T095100Z">
+        <seg>Vul het structogram aan met twee beslissingen en formuleer bijbehorende instructies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ergänze das Struktogramm und füge die einzelnen Schritte in der richtigen Reihenfolge des Saftmachens hinzu.&lt;x2/&gt;• Hälften auspressen&lt;x3/&gt;• 3 Mal wiederholen&lt;x4/&gt;• Orange in der Mitte durchschneiden</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095019Z" creationid="amando" creationdate="20260619T095019Z">
+        <seg>Vul het structogram aan en voeg de afzonderlijke stappen toe in de juiste volgorde voor het maken van sap.&lt;x2/&gt;• De helften uitpersen&lt;x3/&gt;• Dit 3 keer herhalen&lt;x4/&gt;• De sinaasappel in het midden doormidden snijden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Erstelle das abgebildete Programm.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133825Z" creationid="amando" creationdate="20260618T133825Z">
@@ -378,6 +466,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133230Z" creationid="amando" creationdate="20260618T133230Z">
         <seg>Maak hiervoor de volgende programma's in MakeCode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle dazu folgende Programme in MakeCode.&lt;x2/&gt;Starte den Simulator und beschreibe, was im Simulator passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095208Z" creationid="amando" creationdate="20260619T095208Z">
+        <seg>Maak hiervoor de volgende programma's in MakeCode.&lt;x2/&gt;Start de simulator en beschrijf wat er in de simulator gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein eigenes Struktogramm für das Überqueren einer Straße.&lt;x2/&gt;Verwende folgende Beschreibungen der einzelnen Schritte.&lt;x3/&gt;• Ich gehe zur Ampel.&lt;x4/&gt;• Ich überprüfe das Ampelsignal.&lt;x5/&gt;• Ist das Signal der Ampel grün?&lt;x6/&gt;• Ich überquere die Straße.&lt;x7/&gt;• Ich bleibe stehen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095104Z" creationid="amando" creationdate="20260619T095104Z">
+        <seg>Maak een eigen structogram voor het oversteken van een straat.&lt;x2/&gt;Gebruik de volgende beschrijvingen van de afzonderlijke stappen.&lt;x3/&gt;• Ik loop naar het verkeerslicht.&lt;x4/&gt;• Ik kijk naar het verkeerslicht.&lt;x5/&gt;• Is het verkeerslicht op groen?&lt;x6/&gt;• Ik steek de straat over.&lt;x7/&gt;• Ik blijf staan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,10 +518,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Futter in den Napf füllen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095025Z" creationid="amando" creationdate="20260619T095025Z">
+        <seg>Voer in de voerbak doen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Führe die einzelnen Schritte in der richtigen Reihenfolge aus und teste auf deinem Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133632Z" creationid="amando" creationdate="20260618T133632Z">
         <seg>Voer de afzonderlijke stappen in de juiste volgorde uit en test het resultaat op je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gehe schrittweise vor!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095159Z" creationid="amando" creationdate="20260619T095159Z">
+        <seg>Ga stap voor stap te werk!</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,10 +550,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Gib die URL in die Browserleiste ein - &lt;x2/&gt;makecode.calliope.cc</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095111Z" creationid="amando" creationdate="20260619T095111Z">
+        <seg>Voer de URL in de adresbalk van de browser in - &lt;x2/&gt;makecode.calliope.cc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hacken</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134615Z" creationid="amando" creationdate="20260618T134615Z">
         <seg>Hakken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hardware auswählen&lt;x2/&gt;Wähle zu Beginn eines neuen Projekts deine Calliope mini Version aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095139Z" creationid="amando" creationdate="20260619T095139Z">
+        <seg>Hardware selecteren&lt;x2/&gt;Kies aan het begin van een nieuw project je Calliope mini-versie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +590,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hier kannst du dein Programm benennen, speichern und übertragen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095130Z" creationid="amando" creationdate="20260619T095130Z">
+        <seg>Hier kun je je programma een naam geven, opslaan en verzenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier siehst du ein Struktogramm, das den Ablauf des Hundefütterns darstellt.&lt;x2/&gt;Schau dir die einzelnen Anweisungen an und kreise die Entscheidung ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095015Z" creationid="amando" creationdate="20260619T095015Z">
+        <seg>Hier zie je een structogram dat het verloop van het voeren van de hond weergeeft.&lt;x2/&gt;Bekijk de afzonderlijke instructies en omcirkel de keuze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hier siehst du eine Abbildung des Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134755Z" creationid="amando" creationdate="20260618T134755Z">
@@ -466,6 +618,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134926Z" creationid="amando" creationdate="20260618T134926Z">
         <seg>Opmerking:&lt;x2/&gt; Vanaf de Calliope mini 3 zijn er drie RGB-leds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hinweis:&lt;x2/&gt; Stelle sicher, dass du deine Calliope mini Version im Simulator siehst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095131Z" creationid="amando" creationdate="20260619T095131Z">
+        <seg>Opmerking:&lt;x2/&gt; Zorg ervoor dat je je Calliope mini-versie in de simulator ziet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hund frisst</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095032Z" creationid="amando" creationdate="20260619T095032Z">
+        <seg>De hond eet</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +658,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134435Z" creationid="amando" creationdate="20260618T134435Z">
         <seg>Ik loop naar de deur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich gucke aus dem Fenster</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095106Z" creationid="amando" creationdate="20260619T095106Z">
+        <seg>Ik kijk uit het raam</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,10 +734,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Im Simulator kannst du die Programme direkt testen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095135Z" creationid="amando" creationdate="20260619T095135Z">
+        <seg>In de simulator kun je de programma's direct testen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113700Z" creationid="amando" creationdate="20260618T113700Z">
         <seg>Importeer de benodigde programmablokken:&lt;x2/&gt;CO2-sensor-SCD40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Bibliothek findest du alle Programmblöcke, die du für deine Anweisungen benötigst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095128Z" creationid="amando" creationdate="20260619T095128Z">
+        <seg>In de bibliotheek vind je alle programmablokken die je nodig hebt voor je instructies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +786,30 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133205Z" creationid="amando" creationdate="20260618T133205Z">
         <seg>KENNISMAKEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kennenlernen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095202Z" creationid="amando" creationdate="20260619T095202Z">
+        <seg>Kennismaken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kennst du die verschiedenen Bereiche des Editors und kannst sie den Beschreibungen zuordnen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095118Z" creationid="amando" creationdate="20260619T095118Z">
+        <seg>Ken je de verschillende onderdelen van de editor en kun je ze aan de beschrijvingen koppelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Klicke dazu auf die drei Punkte neben „Herunterladen“ und drücke „Hardware auswählen“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095133Z" creationid="amando" creationdate="20260619T095133Z">
+        <seg>Klik hiervoor op de drie puntjes naast ‘Downloaden’ en selecteer ‘Hardware selecteren’.</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +886,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mache einen Plan.&lt;x2/&gt;2) Setze dein Programm aus den einzelnen Programmblöcken zusammen.&lt;x3/&gt;3) Überprüfe dein Programm im Simulator.&lt;x4/&gt;4) Übertrage dein Programm auf den Calliope mini.&lt;x5/&gt;5) Führe dein Programm auf dem Calliope mini aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095149Z" creationid="amando" creationdate="20260619T095149Z">
+        <seg>Maak een plan.&lt;x2/&gt;2) Stel je programma samen uit de afzonderlijke programmablokken.&lt;x3/&gt;3) Controleer je programma in de simulator.&lt;x4/&gt;4) Zet je programma over naar de Calliope mini.&lt;x5/&gt;5) Voer je programma uit op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Macht der Hund&lt;x2/&gt;„Sitz“?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095036Z" creationid="amando" creationdate="20260619T095036Z">
+        <seg>Kan de hond&lt;x2/&gt;„Zit“ doen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mikrofon</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134832Z" creationid="amando" creationdate="20260618T134832Z">
@@ -710,10 +942,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>NEIN</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095034Z" creationid="amando" creationdate="20260619T095034Z">
+        <seg>NEE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Napf&lt;x2/&gt;bereitstellen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095031Z" creationid="amando" creationdate="20260619T095031Z">
+        <seg>Napf&lt;x2/&gt;klaarzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Nur durch Testen und Ausprobieren, erfährst du welche Geschwindigkeit die richtige für dich ist.&lt;x2/&gt;Programmier:innen sind sehr gerne bequem.&lt;x3/&gt;Anstatt immer wieder in jedem Pause Befehl die Geschwindigkeit zu ändern, kannst du&lt;x4/&gt;es dir viel einfacher machen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133850Z" creationid="amando" creationdate="20260618T133850Z">
         <seg>Alleen door te testen en uit te proberen kom je erachter welke snelheid voor jou de juiste is.&lt;x2/&gt;Programmeurs houden erg van gemak.&lt;x3/&gt;In plaats van de snelheid bij elke pauzecommando steeds opnieuw aan te passen, kun je&lt;x4/&gt;het jezelf veel gemakkelijker maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Oder scanne den&lt;x2/&gt;QR-Code.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095112Z" creationid="amando" creationdate="20260619T095112Z">
+        <seg>Of scan de&lt;x2/&gt;QR-code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +1006,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Programmierumgebung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095107Z" creationid="amando" creationdate="20260619T095107Z">
+        <seg>Programmeeromgeving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Projekt benennen&lt;x2/&gt;Gib einen passenden Namen ein und klicke auf „Erstelle“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095138Z" creationid="amando" creationdate="20260619T095138Z">
+        <seg>Geef het project een naam&lt;x2/&gt;Voer een passende naam in en klik op ‘Aanmaken’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Prozessor</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134841Z" creationid="amando" creationdate="20260618T134841Z">
@@ -770,6 +1042,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114439Z" creationid="amando" creationdate="20260618T114315Z">
         <seg>Relative Humidity&lt;x2/&gt;relatieve luchtvochtigheid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Saft in ein Glas gießen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095029Z" creationid="amando" creationdate="20260619T095029Z">
+        <seg>Sap in een glas gieten</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,10 +1102,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Sie sind in bunte Kategorien eingeordnet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095129Z" creationid="amando" creationdate="20260619T095129Z">
+        <seg>Ze zijn ingedeeld in kleurrijke categorieën.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>So können auch andere deinen Plan lesen und mitdenken.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T135016Z" creationid="amando" creationdate="20260618T135016Z">
         <seg>Zo kunnen ook anderen je plan lezen en meedenken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>So verhinderst du, dass Programme nicht funktionieren und du nicht genau sagen kannst, woran es liegt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095158Z" creationid="amando" creationdate="20260619T095158Z">
+        <seg>Zo voorkom je dat programma’s niet werken en je niet precies kunt zeggen wat de oorzaak is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Starte mit einem neuen Projekt und schau dir die Oberfläche genau an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095136Z" creationid="amando" creationdate="20260619T095136Z">
+        <seg>Begin met een nieuw project en bekijk de interface eens goed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Teste sie im Editor und notiere die Eigenschaften.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095207Z" creationid="amando" creationdate="20260619T095207Z">
+        <seg>Test ze in de editor en noteer de eigenschappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Testen im Simulator</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133329Z" creationid="amando" creationdate="20260618T133329Z">
@@ -878,9 +1190,41 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Testen im Simulator!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095211Z" creationid="amando" creationdate="20260619T095211Z">
+        <seg>Testen in de simulator!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp: &lt;x2/&gt;Die Version deines Calliope mini erkennst du am Aufdruck auf der Rückseite.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095141Z" creationid="amando" creationdate="20260619T095141Z">
+        <seg>Tip: &lt;x2/&gt;Je kunt de versie van je Calliope mini herkennen aan de opdruk op de achterkant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp: &lt;x2/&gt;Teile dein Programm bereits in der Planung in kleine Schritte auf.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095155Z" creationid="amando" creationdate="20260619T095155Z">
+        <seg>Tip: &lt;x2/&gt;Verdeel je programma al tijdens de planning in kleine stappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Tipp:&lt;x2/&gt; Die Farben der Blöcke geben dir einen Hinweis in welcher Kategorie du sie findest.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133337Z" creationid="amando" creationdate="20260618T133337Z">
+        <seg>Tip:&lt;x2/&gt; De kleuren van de blokken geven je een indicatie in welke categorie je ze kunt vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp:&lt;x2/&gt; Die Farben der Blöcke geben dir einen Hinweis, in welcher Kategorie du sie findest.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095212Z" creationid="amando" creationdate="20260619T095212Z">
         <seg>Tip:&lt;x2/&gt; De kleuren van de blokken geven je een indicatie in welke categorie je ze kunt vinden.</seg>
       </tuv>
     </tu>
@@ -1062,10 +1406,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wie kann ich ein Programm öffnen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095215Z" creationid="amando" creationdate="20260619T095215Z">
+        <seg>Hoe kan ik een programma openen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wie sieht deine Rakete aus oder ein Gespenst?</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134111Z" creationid="amando" creationdate="20260618T134111Z">
         <seg>Hoe ziet jouw raket eruit, of is het een spook?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wiederhole diese Testschleifen immer wieder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095157Z" creationid="amando" creationdate="20260619T095157Z">
+        <seg>Herhaal deze testlussen steeds opnieuw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wiederholung/Schleife</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095010Z" creationid="amando" creationdate="20260619T095010Z">
+        <seg>Herhaling/lus</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,10 +1510,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Über &lt;x2/&gt;„Importieren“&lt;x3/&gt; kannst du gespeicherte Projekte öffnen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095337Z" creationid="amando" creationdate="20260619T095337Z">
+        <seg>Via &lt;x2/&gt;„Importeren“&lt;x3/&gt; kun je opgeslagen projecten openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Überlege in welcher Reihenfolge einzelne Schritte ablaufen sollen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T135004Z" creationid="amando" creationdate="20260618T135004Z">
         <seg>Bedenk in welke volgorde de afzonderlijke stappen moeten plaatsvinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Überprüfe die einzelnen Schritte jeweils im Simulator, verbessere dein Programm und teste es erneut auf dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095156Z" creationid="amando" creationdate="20260619T095156Z">
+        <seg>Controleer de afzonderlijke stappen telkens in de simulator, verbeter je programma en test het opnieuw op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übersicht</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095117Z" creationid="amando" creationdate="20260619T095117Z">
+        <seg>Overzicht</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
