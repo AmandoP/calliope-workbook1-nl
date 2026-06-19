@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>9cm</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110957Z" creationid="amando" creationdate="20260619T110957Z">
+        <seg>9 cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;x2/&gt;Setze die unten stehenden Bilder der Backanleitung in die richtige Reihenfolge, indem du sie von 1-5 durchnummerierst.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134320Z" creationid="amando" creationdate="20260618T134320Z">
@@ -190,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Anstecken und messen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111001Z" creationid="amando" creationdate="20260619T111001Z">
+        <seg>Aansluiten en meten!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Anweisung</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T135113Z" creationid="amando" creationdate="20260618T135113Z">
@@ -294,10 +310,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bastel dir ein eigenes Orakel und stelle spannende Fragen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110903Z" creationid="amando" creationdate="20260619T110903Z">
+        <seg>Maak je eigen orakel en stel spannende vragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Bastel dir ein eigenes Smart-Licht: Klatsche in die Hände und das Licht geht an.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105220Z" creationid="amando" creationdate="20260619T105220Z">
         <seg>Maak je eigen slimme lamp: klap in je handen en het licht gaat aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Baue dir dein eigenes Calliope mini Orakel und lasse dir die Antworten geben.&lt;x2/&gt;Du programmierst und bestimmst die Antworten!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110756Z" creationid="amando" creationdate="20260619T110756Z">
+        <seg>Maak je eigen Calliope mini-orakel en laat het je de antwoorden geven.&lt;x2/&gt;Jij programmeert het en bepaalt zelf de antwoorden!</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +346,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103652Z" creationid="amando" creationdate="20260619T103652Z">
         <seg>Voer de volgende opdrachten uit in MakeCode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Befestige deinen Calliope mini auf der Pappe, indem du das Gummiband um die Pappscheibe führst und z.B. um einen Grove-Anschluss spannst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110923Z" creationid="amando" creationdate="20260619T110923Z">
+        <seg>Bevestig je Calliope mini op het karton door het elastiekje om de kartonnen schijf te halen en het bijvoorbeeld rond een Grove-aansluiting strak te trekken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Befestige ein Gummiband am &lt;x2/&gt;Pin 0&lt;x3/&gt; deines Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110919Z" creationid="amando" creationdate="20260619T110919Z">
+        <seg>Bevestig een elastiekje aan &lt;x2/&gt;pin 0&lt;x3/&gt; van je Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +718,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Zukunft vorhersagen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110817Z" creationid="amando" creationdate="20260619T110817Z">
+        <seg>De toekomst voorspellen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die zufällige Zahl bestimmt die Antwort, die angezeigt wird.&lt;x5/&gt;Ausgabe:&lt;x6/&gt;Die Antwort wird auf der LED-Matrix ausgegeben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110829Z" creationid="amando" creationdate="20260619T110829Z">
+        <seg>Het willekeurige getal bepaalt welk antwoord wordt weergegeven.&lt;x5/&gt;Uitvoer:&lt;x6/&gt;Het antwoord wordt weergegeven op de LED-matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Diese Farben werden aus den drei Grundfarben rot, grün, blau gemischt.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103635Z" creationid="amando" creationdate="20260619T103635Z">
@@ -706,6 +770,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104733Z" creationid="amando" creationdate="20260619T104733Z">
         <seg>Je vindt het in de categorie ‘Logica’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst auch die Kugel von außen noch verzieren.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110932Z" creationid="amando" creationdate="20260619T110932Z">
+        <seg>Je kunt de bal ook van buitenaf nog versieren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +834,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104532Z" creationid="amando" creationdate="20260619T104532Z">
         <seg>Je kunt ze niet hernoemen, maar je kunt ze op elk moment gebruiken binnen de functie ‘Ontvangen’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst sie zum Beispiel in Transparentpapier wickeln.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110915Z" creationid="amando" creationdate="20260619T110915Z">
+        <seg>Je kunt ze bijvoorbeeld in transparant papier wikkelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Eingabe:&lt;x2/&gt;Schüttel den Calliope mini.&lt;x3/&gt;Verarbeitung:&lt;x4/&gt;Ein zufällige Zahl zwischen 1 und 3 wird ermittelt und in eine Variable gespeichert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110821Z" creationid="amando" creationdate="20260619T110821Z">
+        <seg>Invoer:&lt;x2/&gt;Schud de Calliope mini.&lt;x3/&gt;Verwerking:&lt;x4/&gt;Er wordt een willekeurig getal tussen 1 en 3 gegenereerd en in een variabele opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Eis-Thermometer</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105425Z" creationid="amando" creationdate="20260619T105425Z">
@@ -906,6 +994,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104451Z" creationid="amando" creationdate="20260619T104451Z">
         <seg>Resultaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ergänze das Struktogramm auf der rechten Seite:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110800Z" creationid="amando" creationdate="20260619T110800Z">
+        <seg>Vul het structogram aan de rechterkant aan:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1170,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105257Z" creationid="amando" creationdate="20260619T105257Z">
         <seg>Vouw het karton tot slot dicht en bevestig elastiekjes aan de buitenkant van het karton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Feuchtigkeitssensor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111034Z" creationid="amando" creationdate="20260619T111034Z">
+        <seg>Vochtigheidssensor</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;Grove&lt;x3/&gt;(Erweiterungen)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111051Z" creationid="amando" creationdate="20260619T111051Z">
+        <seg>Importeer de benodigde programmablokken:&lt;x2/&gt;Grove&lt;x3/&gt;(uitbreidingen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In der Bibliothek findest du alle Programmblöcke, die du für deine Anweisungen benötigst.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095128Z" creationid="amando" creationdate="20260619T095128Z">
@@ -1546,6 +1658,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134316Z" creationid="amando" creationdate="20260618T134316Z">
         <seg>Hoe gedetailleerder de instructies, hoe nauwkeuriger het resultaat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jeder möglichen Zahl wird eine Antwort zugewiesen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110825Z" creationid="amando" creationdate="20260619T110825Z">
+        <seg>Aan elk mogelijk getal wordt een antwoord toegewezen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Manche Antworten musst du sofort wissen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110752Z" creationid="amando" creationdate="20260619T110752Z">
+        <seg>Sommige antwoorden moet je meteen weten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Material</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104442Z" creationid="amando" creationdate="20260619T104442Z">
@@ -1842,6 +1970,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105331Z" creationid="amando" creationdate="20260619T105331Z">
         <seg>Met behulp van de temperatuursensor kan de omgevingstemperatuur worden gemeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem Feuchtigkeitssensor kannst du die Bodenfeuchtigkeit deiner Pflanze messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111013Z" creationid="amando" creationdate="20260619T111013Z">
+        <seg>Met de vochtigheidssensor kun je de bodemvochtigheid van je plant meten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1982,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Pflanzen brauchen immer genug Wasser, um zu wachsen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111005Z" creationid="amando" creationdate="20260619T111005Z">
+        <seg>Planten hebben altijd voldoende water nodig om te groeien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Programme übertragen</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095409Z" creationid="amando" creationdate="20260619T095409Z">
@@ -2002,6 +2146,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103717Z" creationid="amando" creationdate="20260619T103717Z">
         <seg>Programmeer aan de hand van het structogram.&lt;x2/&gt;Opmerking: &lt;x3/&gt;Vergeet de pauzes niet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere das Orakel anhand deines Struktogramms.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110850Z" creationid="amando" creationdate="20260619T110850Z">
+        <seg>Programmeer het orakel aan de hand van je structogram.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2178,6 +2330,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113643Z" creationid="amando" creationdate="20260618T113643Z">
         <seg>Sluit de printplaat aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schließe zum Schluss das Batteriefach an deinen Calliope mini an und stecke alles in die Kugel.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110928Z" creationid="amando" creationdate="20260619T110928Z">
+        <seg>Sluit tot slot het batterijvakje aan op je Calliope mini en plaats alles in de bol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schneide aus einer Pappe einen Kreis mit 9 cm Durchmesser aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110907Z" creationid="amando" creationdate="20260619T110907Z">
+        <seg>Knip uit een stuk karton een cirkel met een diameter van 9 cm uit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Verbinde den Sensor mit dem&lt;x2/&gt;Grove-Kabel über den Grove-Anschluss A1 mit dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111022Z" creationid="amando" creationdate="20260619T111022Z">
+        <seg>Sluit de sensor via de Grove-aansluiting A1 met de&lt;x2/&gt;Grove-kabel aan op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Verbinde die Bezeichnungen mit den einzelnen Bauteilen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134759Z" creationid="amando" creationdate="20260618T134759Z">
@@ -2566,10 +2742,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Verwende den schwarzen Calliope Sensor oder den blauen Grove Sensor, um die Bodenfeuchtigkeit zu messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111018Z" creationid="amando" creationdate="20260619T111018Z">
+        <seg>Gebruik de zwarte Calliope-sensor of de blauwe Grove-sensor om de bodemvochtigheid te meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Verwende die CO2-Platine um die Luftqualität zu messen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113635Z" creationid="amando" creationdate="20260618T113635Z">
         <seg>Gebruik de CO2-printplaat om de luchtkwaliteit te meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verziere die Pappscheibe, wie es dir gefällt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110911Z" creationid="amando" creationdate="20260619T110911Z">
+        <seg>Versier de kartonnen schijf zoals je zelf wilt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Zu viel Wasser darf es aber auch nicht sein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111009Z" creationid="amando" creationdate="20260619T111009Z">
+        <seg>Maar het mag ook niet te veel water zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>a)	&lt;x2/&gt;Erstelle&lt;x3/&gt; eine Variable und &lt;x4/&gt;	benenne sie „Tempo“.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133923Z" creationid="amando" creationdate="20260618T133923Z">
@@ -2990,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>wenn geschüttelt</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110833Z" creationid="amando" creationdate="20260619T110833Z">
+        <seg>wanneer geschud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Änderst du die Haltung oder legst es hin, verändert sich die Anzeige auf dem Display.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105552Z" creationid="amando" creationdate="20260619T105552Z">
@@ -3026,6 +3234,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095343Z" creationid="amando" creationdate="20260619T095343Z">
         <seg>Via het &lt;x2/&gt;deel-pictogram&lt;x3/&gt; worden een URL en een QR-code voor je programma gegenereerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über den Pin C16 können analoge Werte empfangen werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111030Z" creationid="amando" creationdate="20260619T111030Z">
+        <seg>Via pin C16 kunnen analoge waarden worden ontvangen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Übertrage dein Programm auf den Calliope mini&lt;x2/&gt;und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110846Z" creationid="amando" creationdate="20260619T110846Z">
+        <seg>Zet je programma over naar de Calliope mini&lt;x2/&gt;en probeer het eens uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Übungen</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103848Z" creationid="amando" creationdate="20260619T103848Z">
@@ -3106,6 +3330,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104921Z" creationid="amando" creationdate="20260619T104921Z">
         <seg>• Als er op knop A wordt geklikt&lt;x2/&gt;• Als er op knop B wordt geklikt&lt;x3/&gt;• De gemeten lichtsterkte opslaan in de variabele „Licht“&lt;x4/&gt;&lt;x5/&gt;• De waarde van de variabele „Licht“ weergeven&lt;x6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• Zeige „Ja“&lt;x2/&gt;• Zeige „Nein“&lt;x3/&gt;• Zeige „Vielleicht“&lt;x4/&gt;• Wenn „zufall = 1“&lt;x5/&gt;• Wenn „zufall = 2“&lt;x6/&gt;• Wenn „zufall = 3“&lt;x7/&gt;• zufall = zufällige Zahl zwischen 1 und 3</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110854Z" creationid="amando" creationdate="20260619T110854Z">
+        <seg>• Toon „Ja“&lt;x2/&gt;• Toon „Nee“&lt;x3/&gt;• Toon „Misschien“&lt;x4/&gt;• Als „toeval = 1“&lt;x5/&gt;• Als „toeval = 2“&lt;x6/&gt;• Als „toeval = 3“&lt;x7/&gt;• toeval = willekeurig getal tussen 1 en 3</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
