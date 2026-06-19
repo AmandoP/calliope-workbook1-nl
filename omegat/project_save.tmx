@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>2x Kniebeugen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103857Z" creationid="amando" creationdate="20260619T103857Z">
+        <seg>2x squats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>3 Orangen bereitlegen</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095026Z" creationid="amando" creationdate="20260619T095026Z">
         <seg>Zorg dat je 3 sinaasappels bij de hand hebt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>3x Hampelmann hintereinander</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103853Z" creationid="amando" creationdate="20260619T103853Z">
+        <seg>3 keer achter elkaar een sprongje</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +114,30 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133059Z" creationid="amando" creationdate="20260618T133059Z">
         <seg>Zoekopdrachten&lt;x1/&gt;(meerdere)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Abfragen&lt;x2/&gt;(ein-/zweifach)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103811Z" creationid="amando" creationdate="20260619T103811Z">
+        <seg>Vragen&lt;x2/&gt;(enkelvoudig/dubbel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Abfragen&lt;x2/&gt;(mehrfach)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103815Z" creationid="amando" creationdate="20260619T103815Z">
+        <seg>Zoekopdrachten&lt;x2/&gt;(meerdere)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Abschluss mit einem Strecksprung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104017Z" creationid="amando" creationdate="20260619T104017Z">
+        <seg>Afsluiting met een uitgestrekte sprongje</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +370,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095110Z" creationid="amando" creationdate="20260619T095110Z">
         <seg>Daarvoor heb je een programmeeromgeving nodig – ook wel editor genoemd.&lt;x2/&gt;Een geschikte programmeeromgeving is de editor MakeCode.&lt;x3/&gt;Je vindt deze op het volgende internetadres:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Definiere 5 Farben und ordne jeder Farbe eine Fitnessübung zu - zum Beispiel Kniebeugen, Strecksprung, Hampelmann etc.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104037Z" creationid="amando" creationdate="20260619T104037Z">
+        <seg>Kies 5 kleuren en koppel aan elke kleur een fitnessoefening – bijvoorbeeld squats, sprong met strekbeweging, hink-stap-sprong enz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,10 +670,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Erstelle ein Fitnessprogramm!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104032Z" creationid="amando" creationdate="20260619T104032Z">
+        <seg>Stel een fitnessprogramma samen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Erstelle ein Struktogramm anhand des Programmcodes.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103721Z" creationid="amando" creationdate="20260619T103721Z">
         <seg>Maak een structogram op basis van de programmacode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Struktogramm und beachte bei deinem Fitnessprogramm folgende Vorgaben:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103832Z" creationid="amando" creationdate="20260619T103832Z">
+        <seg>Maak een structogram en houd bij je fitnessprogramma rekening met de volgende richtlijnen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +730,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133410Z" creationid="amando" creationdate="20260618T133410Z">
         <seg>Er kunnen teksten, symbolen en zelfs animaties worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Fitness Training</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103828Z" creationid="amando" creationdate="20260619T103828Z">
+        <seg>Fitnesstraining</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +810,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095139Z" creationid="amando" creationdate="20260619T095139Z">
         <seg>Hardware selecteren&lt;x2/&gt;Kies aan het begin van een nieuw project je Calliope mini-versie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier hast du Platz für die Struktogramme von Aufgabe 2 und 3.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103754Z" creationid="amando" creationdate="20260619T103754Z">
+        <seg>Hier is ruimte voor de structogrammen van opgave 2 en 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Knöpfe</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104045Z" creationid="amando" creationdate="20260619T104045Z">
+        <seg>Knopen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>LED-Matrix</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133354Z" creationid="amando" creationdate="20260618T133354Z">
@@ -1214,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Optimiere dein Programm, indem du Wiederholungen erkennst und Wiederholungsschleifen verwendest, anstatt den gleichen Befehl mehrmals hintereinander abzubilden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103836Z" creationid="amando" creationdate="20260619T103836Z">
+        <seg>Optimaliseer je programma door herhalingen te herkennen en herhalingslussen te gebruiken, in plaats van hetzelfde commando meerdere keren achter elkaar uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ordne die Bauteile des Calliope mini den unterschiedlichen Kategorien &lt;x2/&gt;Eingabe&lt;x3/&gt;, &lt;x4/&gt;Verarbeitung&lt;x5/&gt; und &lt;x6/&gt;Ausgabe&lt;x7/&gt; zu, indem du sie mit Linien verbindest.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134803Z" creationid="amando" creationdate="20260618T134803Z">
@@ -1242,6 +1338,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095409Z" creationid="amando" creationdate="20260619T095409Z">
         <seg>Programma's overzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere anhand deines&lt;x2/&gt;Struktogramms.&lt;x3/&gt;Hinweis: &lt;x4/&gt;Benutze die Wiederholungsschleife aus der Kategorie „Schleifen“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103840Z" creationid="amando" creationdate="20260619T103840Z">
+        <seg>Programmeer aan de hand van je&lt;x2/&gt;structogram.&lt;x3/&gt;Opmerking: &lt;x4/&gt;Gebruik de herhalingslus uit de categorie „Lussen“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1506,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095136Z" creationid="amando" creationdate="20260619T095136Z">
         <seg>Begin met een nieuw project en bekijk de interface eens goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>StruktogrammE</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103750Z" creationid="amando" creationdate="20260619T103750Z">
+        <seg>Structogram E</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +2002,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095117Z" creationid="amando" creationdate="20260619T095117Z">
         <seg>Overzicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übungen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103848Z" creationid="amando" creationdate="20260619T103848Z">
+        <seg>Oefeningen</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
