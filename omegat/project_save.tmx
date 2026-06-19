@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Angenehm fühlt es sich zwischen 30%&lt;x2/&gt;und 70% an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112115Z" creationid="amando" creationdate="20260619T112115Z">
+        <seg>Het voelt prettig aan tussen 30%&lt;x2/&gt;en 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Anstatt immer wieder in jedem Pause Befehl die Geschwindigkeit zu ändern,&lt;x3/&gt;kannst du es dir viel einfacher machen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T101212Z" creationid="amando" creationdate="20260619T101212Z">
@@ -486,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Calliope mini Bluetooth-Modus</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112242Z" creationid="amando" creationdate="20260619T112242Z">
+        <seg>Calliope mini Bluetooth-modus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Dabei spielt die Reihenfolge der Anweisungen eine entscheidende Rolle.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134304Z" creationid="amando" creationdate="20260618T134304Z">
@@ -558,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dazu wird die Calliope mini App benötigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112234Z" creationid="amando" creationdate="20260619T112234Z">
+        <seg>Hiervoor is de Calliope mini-app nodig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Definiere 5 Farben und ordne jeder Farbe eine Fitnessübung zu - zum Beispiel Kniebeugen, Strecksprung, Hampelmann etc.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104037Z" creationid="amando" creationdate="20260619T104037Z">
@@ -602,6 +626,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104507Z" creationid="amando" creationdate="20260619T104507Z">
         <seg>De Calliope mini heeft een kleine antenne waarmee berichten tussen verschillende Calliope mini's kunnen worden verzonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Calliope mini kann mobil per Bluetooth programmiert werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112230Z" creationid="amando" creationdate="20260619T112230Z">
+        <seg>De Calliope mini kan mobiel via Bluetooth worden geprogrammeerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Dicke Luft?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112058Z" creationid="amando" creationdate="20260619T112058Z">
+        <seg>Is er iets aan de hand?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die .hex Datei lässt sich wieder in MakeCode öffnen und bearbeiten.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095342Z" creationid="amando" creationdate="20260619T095342Z">
@@ -730,6 +770,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105249Z" creationid="amando" creationdate="20260619T105249Z">
         <seg>Je kunt de LED-matrix nu door het raam zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Luft, die dich umgibt, spielt eine große Rolle für dein Wohlbefinden.&lt;x2/&gt;Programmiere eine Anzeige, die dich informiert, wenn es zu heiß wird, die Luftfeuchtigkeit zu hoch oder zu niedrig ist und wenn mal wieder gelüftet werden muss.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112008Z" creationid="amando" creationdate="20260619T112008Z">
+        <seg>De lucht om je heen speelt een grote rol in je welzijn.&lt;x2/&gt;Programmeer een display dat je waarschuwt wanneer het te warm wordt, de luchtvochtigheid te hoog of te laag is en wanneer het weer tijd is om te luchten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2262,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Nutze den Lautsprecher für den Temperaturhinweis.&lt;x2/&gt;Lasse einen Warnton ausgeben, wenn die Temperatur zu&lt;x3/&gt;kalt oder zu warm ist.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112013Z" creationid="amando" creationdate="20260619T112013Z">
+        <seg>Gebruik de luidspreker voor de temperatuurmelding.&lt;x2/&gt;Laat een waarschuwingssignaal klinken als de temperatuur te&lt;x3/&gt;koud of te warm is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nutze die RGB-LED für die Anzeige des CO2-Gehalts und programmiere eine Ampel: rot, gelb, grün.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112119Z" creationid="amando" creationdate="20260619T112119Z">
+        <seg>Gebruik de RGB-LED om het CO₂-gehalte weer te geven en programmeer een verkeerslicht: rood, geel, groen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Objekte</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T111517Z" creationid="amando" creationdate="20260619T111517Z">
@@ -2432,8 +2496,8 @@
       <tuv lang="de-DE">
         <seg>Relative Humidity&lt;x2/&gt;relative Luftfeuchtigkeit</seg>
       </tuv>
-      <tuv lang="nl" changeid="amando" changedate="20260618T114439Z" creationid="amando" creationdate="20260618T114315Z">
-        <seg>Relative Humidity&lt;x2/&gt;relatieve luchtvochtigheid</seg>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111956Z" creationid="amando" creationdate="20260618T114315Z">
+        <seg>Relatieve luchtvochtigheid&lt;x2/&gt;relatieve luchtvochtigheid</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Sobald eine Bedingung erfüllt ist, werden alle weiteren für diesen Durchlauf übersprungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112107Z" creationid="amando" creationdate="20260619T112107Z">
+        <seg>Zodra aan één voorwaarde is voldaan, worden alle overige voorwaarden voor deze doorloop overgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Sonne</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T111120Z" creationid="amando" creationdate="20260619T111120Z">
@@ -2886,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Tipp: Hier ist die Reihenfolge der verschachtelten Abfrage wichtig.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112103Z" creationid="amando" creationdate="20260619T112103Z">
+        <seg>Tip: De volgorde van de geneste query’s is hier belangrijk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Tipp: Wenn du sichergehen möchtest, dass deine Hitzefrei- Warnung bemerkt wird, lasse noch einen Ton ertönen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105454Z" creationid="amando" creationdate="20260619T105454Z">
@@ -2942,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Um die Datei nach dem Programmieren zu übertragen, muss der Calliope mini in den Bluetooth-Modus versetzt und mit dem mobilen Gerät verbunden sein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112238Z" creationid="amando" creationdate="20260619T112238Z">
+        <seg>Om het bestand na het programmeren over te zetten, moet de Calliope mini in de Bluetooth-modus worden gezet en met het mobiele apparaat worden verbonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Um genauere Werte zu bekommen, schreibe ein Programm, das den gemessenen Lichtwert bei ausgeschalteter LED-Matrix in eine Variable speichert und lasse dir den gespeicherten Wert danach auf der LED-Matrix anzeigen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104909Z" creationid="amando" creationdate="20260619T104909Z">
@@ -2978,6 +3066,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134759Z" creationid="amando" creationdate="20260618T134759Z">
         <seg>Koppel de benamingen aan de afzonderlijke onderdelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verbindung mit einem mobilen Gerät</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112247Z" creationid="amando" creationdate="20260619T112247Z">
+        <seg>Verbinding met een mobiel apparaat</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Verwende die LED-Matrix für die Anzeige der Luftfeuchtigkeit.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112111Z" creationid="amando" creationdate="20260619T112111Z">
+        <seg>Gebruik de LED-matrix om de luchtvochtigheid weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Verziere die Pappscheibe, wie es dir gefällt.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T110911Z" creationid="amando" creationdate="20260619T110911Z">
@@ -3126,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Weitere Informationen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112217Z" creationid="amando" creationdate="20260619T112217Z">
+        <seg>Meer informatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Weitere Informationen&lt;x2/&gt;58</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134230Z" creationid="amando" creationdate="20260618T134230Z">
@@ -3146,6 +3258,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134653Z" creationid="amando" creationdate="20260618T134653Z">
         <seg>Welke functies hebben de afzonderlijke onderdelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Information erscheint wann und wo?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112042Z" creationid="amando" creationdate="20260619T112042Z">
+        <seg>Welke informatie verschijnt wanneer en waar?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3422,6 +3542,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>ansonsten</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112038Z" creationid="amando" creationdate="20260619T112038Z">
+        <seg>anders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>b)	&lt;x2/&gt;Setze&lt;x3/&gt; die Variable „Tempo“ vor deinem&lt;x4/&gt;	Countdown auf den Wert 100.&lt;x5/&gt;c)	&lt;x6/&gt;Ersetze&lt;x7/&gt; die Werte in den Pause Befehlen&lt;x8/&gt;	durch den Variablen Block „Tempo“.&lt;x9/&gt;d)	&lt;x10/&gt;Setze&lt;x11/&gt; den Wert der Variable&lt;x12/&gt;	„Tempo“ auf 500.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133932Z" creationid="amando" creationdate="20260618T133932Z">
@@ -3674,6 +3802,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T111505Z" creationid="amando" creationdate="20260619T111505Z">
         <seg>Zet de programmacode over naar je Calliope mini, probeer je raadspelletje uit en noteer de resultaten in de tabel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übertragung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112251Z" creationid="amando" creationdate="20260619T112251Z">
+        <seg>Overdracht</seg>
       </tuv>
     </tu>
     <tu>
