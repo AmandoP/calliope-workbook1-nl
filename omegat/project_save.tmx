@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Schau dir den Programmcode an und beschreibe was passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105707Z" creationid="amando" creationdate="20260619T105707Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Bekijk de programmacode en beschrijf wat er gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Gehe schrittweise vor!</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095159Z" creationid="amando" creationdate="20260619T095159Z">
@@ -1178,6 +1186,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134709Z" creationid="amando" creationdate="20260618T134709Z">
         <seg>Er wordt geschreven ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gewinnen wir das nächste Hockeyturnier, ist Flynn verliebt in mich oder darf ich heute Abend am Computer spielen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105720Z" creationid="amando" creationdate="20260619T105720Z">
+        <seg>Als we het volgende hockeytoernooi winnen, is Flynn dan verliefd op mij of mag ik vanavond op de computer spelen?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Programmiere und teste die folgenden Eingaben mit dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105630Z" creationid="amando" creationdate="20260619T105630Z">
+        <seg>Programmeer en test de volgende invoer met de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Programmieren heißt, einem Computer (z.B. deinem Calliope mini) Schritt-für-Schritt zu sagen, was er tun soll.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134255Z" creationid="amando" creationdate="20260618T134255Z">
@@ -2106,6 +2130,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104114Z" creationid="amando" creationdate="20260619T104114Z">
         <seg>Bekijk de programmacode eens goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir die Programme an, beschreibe was passiert und überprüfe deine Vermutung mit dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105556Z" creationid="amando" creationdate="20260619T105556Z">
+        <seg>Bekijk de programma’s, beschrijf wat er gebeurt en toets je veronderstelling met de Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Tipp:&lt;x2/&gt; Gib „zufall“ in die Suche ein, um den Block leicht zu finden!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105655Z" creationid="amando" creationdate="20260619T105655Z">
+        <seg>Tip:&lt;x2/&gt; Typ ‘zufall’ in het zoekveld om het blok gemakkelijk te vinden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Touch-Pins</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134807Z" creationid="amando" creationdate="20260618T134807Z">
@@ -2514,6 +2554,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104913Z" creationid="amando" creationdate="20260619T104913Z">
         <seg>Maak het structogram compleet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwandle im nächsten Schritt deinen Calliope mini in einen Würfel.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105634Z" creationid="amando" creationdate="20260619T105634Z">
+        <seg>Maak in de volgende stap van je Calliope mini een kubus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,10 +2918,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>b) Übertrage den Programmcode in MakeCode.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105703Z" creationid="amando" creationdate="20260619T105703Z">
+        <seg>b) Zet de programmacode over naar MakeCode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>bleibe ich zu Hause.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134546Z" creationid="amando" creationdate="20260618T134546Z">
         <seg>dan blijf ik thuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>c) Ersetze die „1“ durch den Block „zufällige Zahl zwischen 0 -10“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105659Z" creationid="amando" creationdate="20260619T105659Z">
+        <seg>c) Vervang de „1“ door het blok „willekeurig getal tussen 0 en 10“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>d) Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105650Z" creationid="amando" creationdate="20260619T105650Z">
+        <seg>d) Zet je programma over naar de Calliope mini en probeer het uit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2914,6 +2986,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134103Z" creationid="amando" creationdate="20260618T134103Z">
         <seg>symbolen en patronen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Änderst du die Haltung oder legst es hin, verändert sich die Anzeige auf dem Display.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105552Z" creationid="amando" creationdate="20260619T105552Z">
+        <seg>Als je de houding verandert of het neerlegt, verandert de weergave op het scherm.</seg>
       </tuv>
     </tu>
     <tu>
