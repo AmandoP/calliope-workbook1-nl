@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ausgegeben wird die Helligkeit im Wertebereich 0 (dunkel) - 255 (hell).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104844Z" creationid="amando" creationdate="20260619T104844Z">
+        <seg>De helderheid wordt weergegeven op een schaal van 0 (donker) tot 255 (licht).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Autorin und Autor:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Begleitendes Zusatzmaterial inklusive Leitfäden für den Unterricht, Programmcodes und Lösungen können auf der Webseite aufgerufen werden: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134239Z" creationid="amando" creationdate="20260618T134239Z">
@@ -518,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die LED-Matrix beim Calliope mini ist gleichzeitig auch der Lichtsensor, mit dem die Stärke des Umgebungslichts gemessen werden kann.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104819Z" creationid="amando" creationdate="20260619T104819Z">
+        <seg>De LED-matrix van de Calliope mini fungeert tegelijkertijd ook als lichtsensor, waarmee de intensiteit van het omgevingslicht kan worden gemeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die LED-Matrix ist der &lt;x2/&gt;Bildschirm&lt;x3/&gt; des Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133402Z" creationid="amando" creationdate="20260618T133402Z">
@@ -586,6 +602,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095423Z" creationid="amando" creationdate="20260619T095423Z">
         <seg>Druk op de witte resetknop op je Calliope mini om je programma opnieuw te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du findest ihn in der Logik Kategorie.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104733Z" creationid="amando" creationdate="20260619T104733Z">
+        <seg>Je vindt het in de categorie ‘Logica’.</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,10 +838,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Erstelle den Programmcode anhand des abgebildeten Struktogramms.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104917Z" creationid="amando" creationdate="20260619T104917Z">
+        <seg>Maak de programmacode aan de hand van het afgebeelde structogram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Erstelle ein Fitnessprogramm!</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104032Z" creationid="amando" creationdate="20260619T104032Z">
         <seg>Stel een fitnessprogramma samen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Programm, das dauerhaft die Helligkeit misst und diese über die&lt;x2/&gt;LED-Matrix ausgibt.&lt;x3/&gt;Miss die Umgebungslichtstärke an unterschiedlichen Orten und dokumentiere die gemessenen Werte.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104823Z" creationid="amando" creationdate="20260619T104823Z">
+        <seg>Maak een programma dat continu de helderheid meet en deze via de&lt;x2/&gt;LED-matrix weergeeft.&lt;x3/&gt;Meet de omgevingshelderheid op verschillende locaties en leg de gemeten waarden vast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Programm, mit dem du nach Belieben unterschiedliche Nachrichten übertragen kannst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104704Z" creationid="amando" creationdate="20260619T104704Z">
+        <seg>Maak een programma waarmee je naar believen verschillende berichten kunt verzenden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +946,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133410Z" creationid="amando" creationdate="20260618T133410Z">
         <seg>Er kunnen teksten, symbolen en zelfs animaties worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Finde eine Bezeichnung für den Ort und notiere die Messung in Wert 1.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104827Z" creationid="amando" creationdate="20260619T104827Z">
+        <seg>Zoek een naam voor de plaats en noteer de meetwaarde in veld 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1138,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104557Z" creationid="amando" creationdate="20260619T104557Z">
         <seg>Help:&lt;x2/&gt;Het „receivedString“-blok slaat het ontvangen bericht op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hilfe:&lt;x2/&gt;Für die Abfrage der empfangenen Zahl wird ein Vergleichsblock benötigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104729Z" creationid="amando" creationdate="20260619T104729Z">
+        <seg>Help:&lt;x2/&gt;Om het ontvangen getal op te vragen, is een vergelijkingsblok nodig.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ort</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104852Z" creationid="amando" creationdate="20260619T104852Z">
+        <seg>Plaats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Programme übertragen</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095409Z" creationid="amando" creationdate="20260619T095409Z">
@@ -1830,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Sende „Alles Gute” an dein Team und lasse nach dem Empfangen der Nachricht ein Herz auf der LED-Matrix erscheinen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104651Z" creationid="amando" creationdate="20260619T104651Z">
+        <seg>Stuur ‘Het allerbeste’ naar je team en laat na ontvangst van het bericht een hartje op de LED-matrix verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Sensoren sind wie Sinne.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134046Z" creationid="amando" creationdate="20260618T134046Z">
@@ -1842,6 +1922,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095129Z" creationid="amando" creationdate="20260619T095129Z">
         <seg>Ze zijn ingedeeld in kleurrijke categorieën.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sinne</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104758Z" creationid="amando" creationdate="20260619T104758Z">
+        <seg>Zinnen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Um genauere Werte zu bekommen, schreibe ein Programm, das den gemessenen Lichtwert bei ausgeschalteter LED-Matrix in eine Variable speichert und lasse dir den gespeicherten Wert danach auf der LED-Matrix anzeigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104909Z" creationid="amando" creationdate="20260619T104909Z">
+        <seg>Om nauwkeurigere waarden te krijgen, schrijf je een programma dat de gemeten lichtwaarde opslaat in een variabele terwijl de LED-matrix is uitgeschakeld, en laat je de opgeslagen waarde daarna op de LED-matrix weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Verarbeitung</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134922Z" creationid="amando" creationdate="20260618T134922Z">
@@ -2058,6 +2154,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104446Z" creationid="amando" creationdate="20260619T104446Z">
         <seg>vermoeden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vervollständige das Struktogramm:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104913Z" creationid="amando" creationdate="20260619T104913Z">
+        <seg>Maak het structogram compleet:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2318,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wert 1</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104856Z" creationid="amando" creationdate="20260619T104856Z">
+        <seg>Waarde 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wert 2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104900Z" creationid="amando" creationdate="20260619T104900Z">
+        <seg>Waarde 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wichtig: &lt;x2/&gt;„receivedString“ ist eine vorab definierte Variable.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104524Z" creationid="amando" creationdate="20260619T104524Z">
@@ -2226,6 +2346,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114307Z" creationid="amando" creationdate="20260618T114307Z">
         <seg>Belangrijke onderdelen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie das funktioniert, findest du auf dieser Seite heraus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104741Z" creationid="amando" creationdate="20260619T104741Z">
+        <seg>Op deze pagina kom je te weten hoe dat werkt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>a) Wenn Taste B gedrückt, sende eine „2“.&lt;x2/&gt;b) Wenn eine „2“ empfangen wird, zeige einen traurigen Smiley.&lt;x3/&gt;c) Erweitere den lachenden Smiley mit einem grünem Licht und den traurigen Smiley mit einem roten Licht.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104712Z" creationid="amando" creationdate="20260619T104712Z">
+        <seg>a) Als toets B wordt ingedrukt, stuur dan een „2“.&lt;x2/&gt;b) Als een „2“ wordt ontvangen, toon dan een droevige smiley.&lt;x3/&gt;c) Voeg aan de lachende smiley een groen lampje toe en aan de droevige smiley een rood lampje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>b)	&lt;x2/&gt;Setze&lt;x3/&gt; die Variable „Tempo“ vor deinem&lt;x4/&gt;	Countdown auf den Wert 100.&lt;x5/&gt;c)	&lt;x6/&gt;Ersetze&lt;x7/&gt; die Werte in den Pause Befehlen&lt;x8/&gt;	durch den Variablen Block „Tempo“.&lt;x9/&gt;d)	&lt;x10/&gt;Setze&lt;x11/&gt; den Wert der Variable&lt;x12/&gt;	„Tempo“ auf 500.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133932Z" creationid="amando" creationdate="20260618T133932Z">
@@ -2382,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>sind wie</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104802Z" creationid="amando" creationdate="20260619T104802Z">
+        <seg>zijn net als</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>symbole und muster</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134103Z" creationid="amando" creationdate="20260618T134103Z">
@@ -2402,6 +2546,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095337Z" creationid="amando" creationdate="20260619T095337Z">
         <seg>Via &lt;x2/&gt;„Importeren“&lt;x3/&gt; kun je opgeslagen projecten openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über Funk lassen sich nicht nur Textnachrichten versenden, sondern auch Zahlen.&lt;x2/&gt;Die Zahlen kannst du empfangen und auswerten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104737Z" creationid="amando" creationdate="20260619T104737Z">
+        <seg>Via de radio kun je niet alleen tekstberichten versturen, maar ook getallen.&lt;x2/&gt;Je kunt die getallen ontvangen en verwerken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Übertrage dafür den Programmcode aus Aufgabe 4 in MakeCode und ergänze dein Programm um folgende Befehle:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104708Z" creationid="amando" creationdate="20260619T104708Z">
+        <seg>Kopieer hiervoor de programmacode uit opdracht 4 naar MakeCode en voeg de volgende commando's toe aan je programma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104344Z" creationid="amando" creationdate="20260619T104344Z">
@@ -2450,6 +2610,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103848Z" creationid="amando" creationdate="20260619T103848Z">
         <seg>Oefeningen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• Wenn Knopf A geklickt&lt;x2/&gt;• Wenn Knopf B geklickt&lt;x3/&gt;• Gemessene Lichtstärke in&lt;x4/&gt;Variable „Licht“ speichern&lt;x5/&gt;• Wert der Variable „Licht“ &lt;x6/&gt;anzeigen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104921Z" creationid="amando" creationdate="20260619T104921Z">
+        <seg>• Als er op knop A wordt geklikt&lt;x2/&gt;• Als er op knop B wordt geklikt&lt;x3/&gt;• De gemeten lichtsterkte opslaan in de variabele „Licht“&lt;x4/&gt;&lt;x5/&gt;• De waarde van de variabele „Licht“ weergeven&lt;x6/&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
