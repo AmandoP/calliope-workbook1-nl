@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;x4/&gt;Verwende eine Variable, um die Geschwindigkeit deiner Animation zu bestimmen und bequem anzupassen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101214Z" creationid="amando" creationdate="20260619T101214Z">
+        <seg>&lt;x4/&gt;Gebruik een variabele om de snelheid van je animatie te bepalen en deze gemakkelijk aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;x4/&gt;b) Kreise den Schritt ein, der wiederholt wird.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134427Z" creationid="amando" creationdate="20260618T134427Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134513Z" creationid="amando" creationdate="20260618T134513Z">
         <seg>Andere herhalingen zijn gekoppeld aan een voorwaarde of een andere gebeurtenis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Anstatt immer wieder in jedem Pause Befehl die Geschwindigkeit zu ändern,&lt;x3/&gt;kannst du es dir viel einfacher machen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101212Z" creationid="amando" creationdate="20260619T101212Z">
+        <seg>In plaats van bij elke pauzecommando steeds weer de snelheid aan te passen,&lt;x3/&gt;kun je het jezelf veel gemakkelijker maken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +514,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095137Z" creationid="amando" creationdate="20260619T095137Z">
         <seg>Een nieuw project starten&lt;x2/&gt;Klik op de turquoise knop met het grote „+“-teken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eine RGB-LED kann in ganz unterschiedlichen Farben leuchten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101336Z" creationid="amando" creationdate="20260619T101336Z">
+        <seg>Een RGB-led kan in heel verschillende kleuren oplichten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beschreibe was passiert, wenn der Wert der Variablen „Tempo“ von 1000 auf 500 geändert wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101220Z" creationid="amando" creationdate="20260619T101220Z">
+        <seg>Bekijk de programmacode en beschrijf wat er gebeurt als de waarde van de variabele „Tempo“ wordt gewijzigd van 1000 naar 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Schau dir die einzelnen Schritte zum Übertragen deines Programms auf den Calliope mini genau an und bringe sie in die richtige Reihenfolge.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133619Z" creationid="amando" creationdate="20260618T133619Z">
@@ -1646,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>a) Erstelle eine Variable und benenne sie „Tempo“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101236Z" creationid="amando" creationdate="20260619T101236Z">
+        <seg>a) Maak een variabele aan en noem deze „Tempo“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>a) Füge hinter jeder Zahl eine Pause ein.&lt;x2/&gt;b) Verlängere die Pausen, indem du den Wert der Millisekunden (ms) erhöhst.&lt;x3/&gt;c) Speichere dein Programm unter dem Namen „Raketenstart“.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T100950Z" creationid="amando" creationdate="20260619T100950Z">
@@ -1658,6 +1698,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133932Z" creationid="amando" creationdate="20260618T133932Z">
         <seg>b) &lt;x2/&gt;Stel&lt;x3/&gt; de variabele „Tempo“ vóór je&lt;x4/&gt; aftelling in op de waarde 100.&lt;x5/&gt;c) &lt;x6/&gt;Vervang&lt;x7/&gt; de waarden in de pauzecommando’s&lt;x8/&gt;	door het variabele blok „Tempo“.&lt;x9/&gt;d) &lt;x10/&gt;Stel&lt;x11/&gt; de waarde van de variabele&lt;x12/&gt; „Tempo“ in op 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>b) Setze die Variable „Tempo“ vor deinem Countdown auf den Wert 100.&lt;x2/&gt;c) Ersetze die Werte in den Pause Befehlen durch den Variablen Block „Tempo“.&lt;x3/&gt;d) Setze den Wert der Variable „Tempo“ auf 500.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101239Z" creationid="amando" creationdate="20260619T101239Z">
+        <seg>b) Stel de variabele „Tempo“ vóór je aftelling in op de waarde 100.&lt;x2/&gt;c) Vervang de waarden in de pauzecommando’s door het variabele blok „Tempo“.&lt;x3/&gt;d) Stel de waarde van de variabele „Tempo“ in op 500.</seg>
       </tuv>
     </tu>
     <tu>
