@@ -368,8 +368,8 @@
       <tuv lang="de-DE">
         <seg>Bausteine eines Computers</seg>
       </tuv>
-      <tuv lang="nl" changeid="amando" changedate="20260618T113534Z" creationid="amando" creationdate="20260618T113534Z">
-        <seg>Onderdelen van een computer</seg>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112337Z" creationid="amando" creationdate="20260618T113534Z">
+        <seg>Onderdelen van een computersysteem</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Display, Hacken, Coden&lt;x2/&gt; – was bedeutet das überhaupt?&lt;x3/&gt;Wir haben eine Webseite mit den am häufigsten benutzten Begriffen zusammengetragen: &lt;x4/&gt;https://calliope.cc/begriffe</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112255Z" creationid="amando" creationdate="20260619T112255Z">
+        <seg>Display, hacken, coderen&lt;x2/&gt; – wat betekent dat eigenlijk?&lt;x3/&gt;We hebben een website samengesteld met de meest gebruikte termen: &lt;x4/&gt;https://calliope.cc/begriffe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Dort steht rechts neben dem USB-Anschluss die Versionsnummer.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095142Z" creationid="amando" creationdate="20260619T095142Z">
@@ -858,6 +866,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095423Z" creationid="amando" creationdate="20260619T095423Z">
         <seg>Druk op de witte resetknop op je Calliope mini om je programma opnieuw te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Drücke zusätzlich die &lt;x5/&gt;Reset Taste&lt;x6/&gt; für&lt;x7/&gt;1 Sekunde.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112307Z" creationid="amando" creationdate="20260619T112307Z">
+        <seg>Druk bovendien &lt;x5/&gt;op de resetknop&lt;x6/&gt; gedurende&lt;x7/&gt;1 seconde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,6 +1490,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104336Z" creationid="amando" creationdate="20260619T104336Z">
         <seg>Houd de Calliope mini met één hand vast bij de&lt;x2/&gt;minus (-)-pin en raak met een vinger van je andere hand een van de andere pinnen aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Halte die Tasten A+B so lange gedrückt, bis die&lt;x8/&gt;Bluetooth-Animation beendet ist.&lt;x9/&gt;• &lt;x10/&gt;Das individuelle &lt;x11/&gt;ID-Muster&lt;x12/&gt; erscheint auf deinem Calliope mini.&lt;x13/&gt;•&lt;x14/&gt; Ab dem Calliope mini 3 kannst du den Bluetooth-Modus starten,&lt;x15/&gt;indem du &lt;x16/&gt;3x die Reset Taste&lt;x17/&gt; drückst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112312Z" creationid="amando" creationdate="20260619T112312Z">
+        <seg>Houd de toetsen A+B ingedrukt totdat de&lt;x8/&gt;Bluetooth-animatie is afgelopen.&lt;x9/&gt;• &lt;x10/&gt;Het unieke &lt;x11/&gt;ID-patroon&lt;x12/&gt; verschijnt op je Calliope mini.&lt;x13/&gt;•&lt;x14/&gt; Vanaf de Calliope mini 3 kun je de Bluetooth-modus starten&lt;x15/&gt;door &lt;x16/&gt;drie keer op de resetknop&lt;x17/&gt; te drukken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,6 +3030,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Tipps für die mobile Nutzung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112325Z" creationid="amando" creationdate="20260619T112325Z">
+        <seg>Tips voor mobiel gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Touch-Pins</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134807Z" creationid="amando" creationdate="20260618T134807Z">
@@ -3242,6 +3274,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134230Z" creationid="amando" creationdate="20260618T134230Z">
         <seg>Meer informatie&lt;x2/&gt;58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Weitere Tipps zur Nutzung mit mobilen Geräten findest du unter: &lt;x2/&gt;https://calliope.cc/programmieren/mobil</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112259Z" creationid="amando" creationdate="20260619T112259Z">
+        <seg>Meer tips voor het gebruik op mobiele apparaten vind je op: &lt;x2/&gt;https://calliope.cc/programmieren/mobil</seg>
       </tuv>
     </tu>
     <tu>
@@ -3818,6 +3858,30 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103848Z" creationid="amando" creationdate="20260619T103848Z">
         <seg>Oefeningen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• &lt;x2/&gt;Halte &lt;x3/&gt;Tasten A+B&lt;x4/&gt; gedrückt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112303Z" creationid="amando" creationdate="20260619T112303Z">
+        <seg>• &lt;x2/&gt;Houd de &lt;x3/&gt;toetsen A+B&lt;x4/&gt; ingedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• &lt;x2/&gt;Jetzt kannst du Programme übertragen.&lt;x3/&gt;• &lt;x4/&gt;Verwende den Editor MakeCode, um ein Programm zu erstellen.&lt;x5/&gt;• &lt;x6/&gt;Tippe auf Herunterladen, um das Programm zu übertragen.&lt;x7/&gt;• &lt;x8/&gt;Nach Abschluss erscheint das Programm auf dem Calliope mini!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112316Z" creationid="amando" creationdate="20260619T112316Z">
+        <seg>• &lt;x2/&gt;Nu kun je programma's overzetten.&lt;x3/&gt;• &lt;x4/&gt;Gebruik de MakeCode-editor om een programma te maken.&lt;x5/&gt;• &lt;x6/&gt;Tik op ‘Downloaden’ om het programma over te zetten.&lt;x7/&gt;• &lt;x8/&gt;Zodra het proces is voltooid, verschijnt het programma op de Calliope mini!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• &lt;x2/&gt;Über das &lt;x3/&gt;rote Calliope mini Icon&lt;x4/&gt; im Bereich „Editoren und Programme“&lt;x5/&gt;öffnest du das Verbindungsfenster.&lt;x6/&gt;• &lt;x7/&gt;Übertrage das individuelle ID-Muster des Calliope mini auf die Matrix.&lt;x8/&gt;• &lt;x9/&gt;Wird der Calliope mini gefunden, verbindet er sich automatisch mit der&lt;x10/&gt;App und ein Smiley erscheint.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112320Z" creationid="amando" creationdate="20260619T112320Z">
+        <seg>• &lt;x2/&gt;Via het &lt;x3/&gt;rode Calliope mini-pictogram&lt;x4/&gt; in het gedeelte „Editors en programma’s“&lt;x5/&gt;open je het verbindingsvenster.&lt;x6/&gt;• &lt;x7/&gt;Breng het unieke ID-patroon van de Calliope mini over naar de matrix.&lt;x8/&gt;• &lt;x9/&gt;Als de Calliope mini wordt gevonden, maakt hij automatisch verbinding met de&lt;x10/&gt;app en verschijnt er een smiley.</seg>
       </tuv>
     </tu>
     <tu>
