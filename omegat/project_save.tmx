@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;x6/&gt;Entwickle ein Programm, das folgende Funktionen hat:&lt;x7/&gt;Bodenfeuchtigkeit&lt;x8/&gt; - Prüfe dauerhaft: Ist die Erde zu trocken, soll die RGB-LED rot leuchten, ansonsten soll sie grün leuchten.&lt;x9/&gt;Temperatur&lt;x10/&gt; - Wird Knopf B gedrückt, soll die Temperatur angezeigt werden.&lt;x11/&gt;Helligkeit &lt;x12/&gt;- Wird Knopf A gedrückt, soll angezeigt werden, ob genügend Licht zur Verfügung steht.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111141Z" creationid="amando" creationdate="20260619T111141Z">
+        <seg>&lt;x6/&gt;Ontwikkel een programma met de volgende functies:&lt;x7/&gt;Bodemvochtigheid&lt;x8/&gt; - Controleer continu: als de grond te droog is, moet de RGB-LED rood branden; anders moet hij groen branden.&lt;x9/&gt;Temperatuur&lt;x10/&gt; - Als knop B wordt ingedrukt, moet de temperatuur worden weergegeven.&lt;x11/&gt;Helderheid &lt;x12/&gt;- Als knop A wordt ingedrukt, moet worden aangegeven of er voldoende licht beschikbaar is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Abfragen&lt;x1/&gt;(ein-/zweifach)</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133051Z" creationid="amando" creationdate="20260618T133051Z">
@@ -286,6 +294,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Auswahl des Ausgabeformats</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111116Z" creationid="amando" creationdate="20260619T111116Z">
+        <seg>Keuze van het uitvoerformaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auswahl&lt;x2/&gt;des Sensors</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111112Z" creationid="amando" creationdate="20260619T111112Z">
+        <seg>Selectie&lt;x2/&gt;van de sensoren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Autorin und Autor:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Begleitendes Zusatzmaterial inklusive Leitfäden für den Unterricht, Programmcodes und Lösungen können auf der Webseite aufgerufen werden: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134239Z" creationid="amando" creationdate="20260618T134239Z">
@@ -422,10 +446,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Benutze dafür den Platz auf der nächsten Seite.&lt;x3/&gt;b) Programmiere anhand deines Struktogramms.&lt;x4/&gt;c) Teste im Simulator.&lt;x5/&gt;d) Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111206Z" creationid="amando" creationdate="20260619T111206Z">
+        <seg>Gebruik daarvoor de ruimte op de volgende pagina.&lt;x3/&gt;b) Programmeer aan de hand van je structogram.&lt;x4/&gt;c) Test het in de simulator.&lt;x5/&gt;d) Zet je programma over naar de Calliope mini en probeer het uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Betrachte deinen Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134747Z" creationid="amando" creationdate="20260618T134747Z">
         <seg>Kijk eens naar je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bitte gießen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111153Z" creationid="amando" creationdate="20260619T111153Z">
+        <seg>Geef alsjeblieft water!</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Entfernungen messen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111312Z" creationid="amando" creationdate="20260619T111312Z">
+        <seg>Afstanden meten!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Entscheidung/Abfrage</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095008Z" creationid="amando" creationdate="20260619T095008Z">
@@ -1254,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111202Z" creationid="amando" creationdate="20260619T111202Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Maak een structogram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm&lt;x3/&gt;b) Programmiere anhand deines Struktogramms&lt;x4/&gt;Verwende eine „wenn dann … ansonsten” Abfrage, um die Aktionen zu steuern.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105143Z" creationid="amando" creationdate="20260619T105143Z">
@@ -1478,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Häkchen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111124Z" creationid="amando" creationdate="20260619T111124Z">
+        <seg>Vinkje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ich beiße ein Stück der Banane ab.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134500Z" creationid="amando" creationdate="20260618T134500Z">
@@ -1642,6 +1706,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105138Z" creationid="amando" creationdate="20260619T105138Z">
         <seg>Als niet aan deze voorwaarde wordt voldaan, schakel dan alle LED's van de matrix uit.&lt;x6/&gt;Uitvoer:&lt;x7/&gt;Alle 25 LED's van de LED-matrix worden in- en uitgeschakeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ist es hell genug, lasse ein Häkchen erscheinen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111149Z" creationid="amando" creationdate="20260619T111149Z">
+        <seg>Als het licht genoeg is, laat er dan een vinkje verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ist es zu dunkel, lasse eine Sonne auf der LED-Matrix erscheinen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111145Z" creationid="amando" creationdate="20260619T111145Z">
+        <seg>Als het te donker is, laat dan een zon op de LED-matrix verschijnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mit dem Ultraschallsensor kann die Entfernung zwischen dem Sensor und einem Objekt gemessen werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111316Z" creationid="amando" creationdate="20260619T111316Z">
+        <seg>Met de ultrasone sensor kan de afstand tussen de sensor en een object worden gemeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mit dem&lt;x1/&gt;Grove-Kabel wird der SCD40 über den Grove-Anschluss A0 mit dem Calliope mini verbunden.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113648Z" creationid="amando" creationdate="20260618T113648Z">
@@ -2118,10 +2206,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Pflanzen brauchen &lt;x2/&gt;Wasser, Sonnenlicht&lt;x3/&gt; und auch die richtige &lt;x4/&gt;Temperatur&lt;x5/&gt; spielt eine wichtige Rolle.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111137Z" creationid="amando" creationdate="20260619T111137Z">
+        <seg>Planten hebben &lt;x2/&gt;water, zonlicht&lt;x3/&gt; nodig en ook de juiste &lt;x4/&gt;temperatuur&lt;x5/&gt; speelt een belangrijke rol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Pflanzen brauchen immer genug Wasser, um zu wachsen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T111005Z" creationid="amando" creationdate="20260619T111005Z">
         <seg>Planten hebben altijd voldoende water nodig om te groeien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Pflanzenstation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111157Z" creationid="amando" creationdate="20260619T111157Z">
+        <seg>Plantenstation</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2258,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T110850Z" creationid="amando" creationdate="20260619T110850Z">
         <seg>Programmeer het orakel aan de hand van je structogram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere eine Pflanzenstation, die dir hilft, die Pflanzen im Klassenzimmer bestmöglich zu versorgen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111132Z" creationid="amando" creationdate="20260619T111132Z">
+        <seg>Programmeer een plantenstation dat je helpt om de planten in het klaslokaal zo goed mogelijk te verzorgen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Sonne</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111120Z" creationid="amando" creationdate="20260619T111120Z">
+        <seg>Zon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Spiele Noten mit dem Calliope mini!</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104426Z" creationid="amando" creationdate="20260619T104426Z">
@@ -2662,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ultraschallsensor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111403Z" creationid="amando" creationdate="20260619T111403Z">
+        <seg>Ultrasone sensoren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Um genauere Werte zu bekommen, schreibe ein Programm, das den gemessenen Lichtwert bei ausgeschalteter LED-Matrix in eine Variable speichert und lasse dir den gespeicherten Wert danach auf der LED-Matrix anzeigen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104909Z" creationid="amando" creationdate="20260619T104909Z">
@@ -2738,6 +2866,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105634Z" creationid="amando" creationdate="20260619T105634Z">
         <seg>Maak in de volgende stap van je Calliope mini een kubus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwende den Ultraschallsensor, um Entfernungen zu messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111321Z" creationid="amando" creationdate="20260619T111321Z">
+        <seg>Gebruik de ultrasone sensor om afstanden te meten.</seg>
       </tuv>
     </tu>
     <tu>
