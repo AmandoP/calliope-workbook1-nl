@@ -350,10 +350,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Damit alle Personen aus deinem Team Nachrichten senden und empfangen können, übertrage jeweils den gesamten Programmcode auf alle Calliope mini in deinem Team.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104614Z" creationid="amando" creationdate="20260619T104614Z">
+        <seg>Zorg ervoor dat je de volledige programmacode naar alle Calliope mini’s in je team overbrengt, zodat iedereen in je team berichten kan verzenden en ontvangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Damit der Calliope mini deine Anweisungen versteht, müssen diese in der passenden Sprache geschrieben werden.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095109Z" creationid="amando" creationdate="20260619T095109Z">
         <seg>Om ervoor te zorgen dat de Calliope mini je instructies begrijpt, moeten deze in de juiste taal zijn geschreven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Danach erscheint die &lt;x2/&gt;Funk&lt;x3/&gt; &lt;x4/&gt;Kategorie in deiner Bibliothek.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104540Z" creationid="amando" creationdate="20260619T104540Z">
+        <seg>Daarna verschijnt de &lt;x2/&gt;Funk&lt;x3/&gt; &lt;x4/&gt;-categorie in je bibliotheek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das Drücken des Knopfes A löst&lt;x2/&gt;das Senden der Nachricht aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104635Z" creationid="amando" creationdate="20260619T104635Z">
+        <seg>Als je op knop A drukt, wordt&lt;x2/&gt;het bericht verzonden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Calliope mini besitzt eine kleine Antenne, über die Nachrichten zwischen verschiedenen Calliope mini übermittelt werden können.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104507Z" creationid="amando" creationdate="20260619T104507Z">
+        <seg>De Calliope mini heeft een kleine antenne waarmee berichten tussen verschillende Calliope mini's kunnen worden verzonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Der Calliope mini kann über den Lautsprecher Töne ausgeben.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104225Z" creationid="amando" creationdate="20260619T104225Z">
@@ -438,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Inhalt der Variable „receivedString“&lt;x2/&gt;wird auf der LED-Matrix angezeigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104639Z" creationid="amando" creationdate="20260619T104639Z">
+        <seg>De inhoud van de variabele „receivedString“&lt;x2/&gt;wordt weergegeven op de LED-matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Der Programmbereich kann auch als Bühne angesehen werden, hier entwickelst du dein Programm, in dem du die einzelnen Programmblöcke platzierst.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095134Z" creationid="amando" creationdate="20260619T095134Z">
@@ -446,10 +486,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Text wird über Funk empfangen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104643Z" creationid="amando" creationdate="20260619T104643Z">
+        <seg>De tekst wordt via de radio ontvangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die .hex Datei lässt sich wieder in MakeCode öffnen und bearbeiten.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095342Z" creationid="amando" creationdate="20260619T095342Z">
         <seg>Het .hex-bestand kan weer in MakeCode worden geopend en bewerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Funkgruppe wird auf „1“ gestellt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104630Z" creationid="amando" creationdate="20260619T104630Z">
+        <seg>De radio wordt op „1“ gezet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,10 +614,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Du kannst ihn einfach anklicken und an die gewünschte Stelle ziehen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104601Z" creationid="amando" creationdate="20260619T104601Z">
+        <seg>Je kunt er gewoon op klikken en het naar de gewenste plek slepen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Du kannst jederzeit die Version anpassen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095132Z" creationid="amando" creationdate="20260619T095132Z">
         <seg>Je kunt de versie op elk moment aanpassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst mit Krokodilklemmen die Touch-Pins verlängern.&lt;x9/&gt;Probiere unterschiedliche Materialien aus… Aluminium, Banane, Knete, Besteck.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104413Z" creationid="amando" creationdate="20260619T104413Z">
+        <seg>Je kunt de touch-pinnen verlengen met krokodillenklemmen.&lt;x9/&gt;Probeer eens verschillende materialen uit… aluminium, banaan, klei, bestek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst sie nicht umbenennen, aber jederzeit innerhalb der „Empfangen“-Funktion verwenden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104532Z" creationid="amando" creationdate="20260619T104532Z">
+        <seg>Je kunt ze niet hernoemen, maar je kunt ze op elk moment gebruiken binnen de functie ‘Ontvangen’.</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ein Text wird über Funk gesendet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104647Z" creationid="amando" creationdate="20260619T104647Z">
+        <seg>Een tekst wordt via de radio verzonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ein neues Projekt starten&lt;x2/&gt;Klicke auf die türkise Schaltfläche mit dem großen „+“ Zeichen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095137Z" creationid="amando" creationdate="20260619T095137Z">
@@ -662,10 +750,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Entwickle ein Calliope mini Klavier, das beim Berühren der Touch-Pins 0-3 jeweils eine unterschiedliche Note abspielt, die RGB-LED in verschiedenen Farben leuchten lässt und den Notennamen auf der LED-Matrix anzeigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104405Z" creationid="amando" creationdate="20260619T104405Z">
+        <seg>Ontwikkel een Calliope mini-piano die bij het aanraken van de touch-pinnen 0-3 telkens een andere noot laat klinken, de RGB-LED in verschillende kleuren laat oplichten en de naam van de noot op de LED-matrix weergeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Er befindet sich unter dem B-Knopf genau neben dem Touch-Pin mit der Nummer 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104229Z" creationid="amando" creationdate="20260619T104229Z">
         <seg>Deze bevindt zich onder de B-knop, precies naast de touch-pin met nummer 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ergebnis</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104451Z" creationid="amando" creationdate="20260619T104451Z">
+        <seg>Resultaat</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,10 +870,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Erweitere dein Programm:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104352Z" creationid="amando" creationdate="20260619T104352Z">
+        <seg>Breid je programma uit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt Abläufe, die durch getroffene Entscheidungen unterschiedlich verlaufen.&lt;x2/&gt;Verbinde die &lt;x3/&gt;Bedingungen (wenn)&lt;x4/&gt; mit der passenden &lt;x5/&gt;Entscheidung (dann).</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134414Z" creationid="amando" creationdate="20260618T134414Z">
         <seg>Er zijn processen die, afhankelijk van de genomen beslissingen, op verschillende manieren verlopen.&lt;x2/&gt;Koppel de &lt;x3/&gt;voorwaarden (als)&lt;x4/&gt; aan de juiste &lt;x5/&gt;beslissing (dan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es kann über verschiedene Funkgruppen, die in der Programmierung festgelegt werden, gefunkt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104511Z" creationid="amando" creationdate="20260619T104511Z">
+        <seg>Er kan via verschillende radiogroepen worden gecommuniceerd, die tijdens de programmering worden ingesteld.</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Funken</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104503Z" creationid="amando" creationdate="20260619T104503Z">
+        <seg>Vonken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Futter in den Napf füllen</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095025Z" creationid="amando" creationdate="20260619T095025Z">
@@ -810,6 +938,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104110Z" creationid="amando" creationdate="20260619T104110Z">
         <seg>Geef beide symbolen nog een passende kleur en test het project op je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Führe dafür die folgenden zwei Schritte aus:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104536Z" creationid="amando" creationdate="20260619T104536Z">
+        <seg>Voer hiervoor de volgende twee stappen uit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,6 +1074,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134755Z" creationid="amando" creationdate="20260618T134755Z">
         <seg>Hier zie je een afbeelding van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hilfe:&lt;x2/&gt;Der „receivedString“ - Block speichert die empfangene Nachricht.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104557Z" creationid="amando" creationdate="20260619T104557Z">
+        <seg>Help:&lt;x2/&gt;Het „receivedString“-blok slaat het ontvangen bericht op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hilfe:&lt;x2/&gt;Mit Krokodilklemmen kannst du Gegenstände wie z.B. Aluminiumfolie, Knete oder eine Zitrone mit den Touch-Pins verbinden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104430Z" creationid="amando" creationdate="20260619T104430Z">
+        <seg>Hulp:&lt;x2/&gt;Met krokodillenklemmen kun je voorwerpen zoals aluminiumfolie, klei of een citroen aan de touch-pinnen bevestigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In dieser Variable wird der über Funk empfangene Text gespeichert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104528Z" creationid="amando" creationdate="20260619T104528Z">
+        <seg>In deze variabele wordt de via de radio ontvangen tekst opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In vielen Abläufen kannst du wiederkehrende Muster erkennen.&lt;x2/&gt;Manche Wiederholungen haben eine definierte Anzahl.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134419Z" creationid="amando" creationdate="20260618T134419Z">
@@ -1162,6 +1322,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095118Z" creationid="amando" creationdate="20260619T095118Z">
         <seg>Ken je de verschillende onderdelen van de editor en kun je ze aan de beschrijvingen koppelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Klavier</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104401Z" creationid="amando" creationdate="20260619T104401Z">
+        <seg>Piano</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Material</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104442Z" creationid="amando" creationdate="20260619T104442Z">
+        <seg>Materiaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mikrofon</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134832Z" creationid="amando" creationdate="20260618T134832Z">
@@ -1394,6 +1570,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095031Z" creationid="amando" creationdate="20260619T095031Z">
         <seg>Napf&lt;x2/&gt;klaarzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nur Calliope mini der gleichen Funkgruppe können untereinander kommunizieren.&lt;x2/&gt;Die Programmblöcke, die hierfür benötigt werden, müssen in die Bibliothek hinzugefügt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104515Z" creationid="amando" creationdate="20260619T104515Z">
+        <seg>Alleen Calliope mini’s uit dezelfde radiogroep kunnen onderling communiceren.&lt;x2/&gt;De programmablokken die hiervoor nodig zijn, moeten aan de bibliotheek worden toegevoegd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und ordne folgende Abläufe den einzelnen Programmblöcken zu:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104605Z" creationid="amando" creationdate="20260619T104605Z">
+        <seg>Bekijk de programmacode en wijs de volgende processen toe aan de afzonderlijke programmablokken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Schau dir den Programmcode genau an.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104114Z" creationid="amando" creationdate="20260619T104114Z">
@@ -1586,6 +1778,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133619Z" creationid="amando" creationdate="20260618T133619Z">
         <seg>Bekijk de afzonderlijke stappen voor het overzetten van je programma naar de Calliope mini goed en zet ze in de juiste volgorde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau mal, was dir einfällt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104417Z" creationid="amando" creationdate="20260619T104417Z">
+        <seg>Kijk maar eens wat je kunt bedenken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1622,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Sende eine Textnachricht deiner Wahl an dein Team.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104610Z" creationid="amando" creationdate="20260619T104610Z">
+        <seg>Stuur een sms naar keuze naar je team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Sensoren sind wie Sinne.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134046Z" creationid="amando" creationdate="20260618T134046Z">
@@ -1654,10 +1862,34 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Spiele Noten mit dem Calliope mini!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104426Z" creationid="amando" creationdate="20260619T104426Z">
+        <seg>Speel muziek met de Calliope mini!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Starte dein Programm mit einer Note auf der LED-Matrix.&lt;x2/&gt;Gehe Schritt für Schritt vor:&lt;x3/&gt;a) Erstelle ein Struktogramm für den Programmcode.&lt;x4/&gt;b) Programmiere anhand des Struktogramms.&lt;x5/&gt;c) Teste dein Programm im Simulator.&lt;x6/&gt;d) Übertrage den Code auf den Calliope mini.&lt;x7/&gt;e) Probiere das Klavier aus.&lt;x8/&gt;Erfinde ein Klavier, das über leitende Materialien gespielt werden kann.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104409Z" creationid="amando" creationdate="20260619T104409Z">
+        <seg>Start je programma met een noot op de LED-matrix.&lt;x2/&gt;Ga stap voor stap te werk:&lt;x3/&gt;a) Maak een structogram voor de programmacode.&lt;x4/&gt;b) Programmeer aan de hand van het structogram.&lt;x5/&gt;c) Test je programma in de simulator.&lt;x6/&gt;d) Zet de code over naar de Calliope mini.&lt;x7/&gt;e) Probeer de piano uit.&lt;x8/&gt;Bedenk een piano die bespeeld kan worden via geleidende materialen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Starte mit einem neuen Projekt und schau dir die Oberfläche genau an.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095136Z" creationid="amando" creationdate="20260619T095136Z">
         <seg>Begin met een nieuw project en bekijk de interface eens goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Stelle eine Vermutung auf, ob deine Materialien Strom leiten und fülle die Tabelle aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104421Z" creationid="amando" creationdate="20260619T104421Z">
+        <seg>Probeer te raden of je materialen elektriciteit geleiden en vul de tabel in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1822,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Vermutung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104446Z" creationid="amando" creationdate="20260619T104446Z">
+        <seg>vermoeden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Verwende die CO2-Platine um die Luftqualität zu messen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113635Z" creationid="amando" creationdate="20260618T113635Z">
@@ -1974,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wichtig: &lt;x2/&gt;„receivedString“ ist eine vorab definierte Variable.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104524Z" creationid="amando" creationdate="20260619T104524Z">
+        <seg>Belangrijk: &lt;x2/&gt;„receivedString“ is een vooraf gedefinieerde variabele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wichtige Blöcke:</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T114307Z" creationid="amando" creationdate="20260618T114307Z">
@@ -2074,6 +2322,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T100950Z" creationid="amando" creationdate="20260619T100950Z">
         <seg>a) Voeg achter elk getal een pauze in.&lt;x2/&gt;b) Verleng de pauzes door de waarde in milliseconden (ms) te verhogen.&lt;x3/&gt;c) Sla je programma op onder de naam „Raketlancering“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a) Lasse die RGB-LED pink leuchten,&lt;x2/&gt;wenn Pin 1 gedrückt wird.&lt;x3/&gt;b) Lasse die RGB-LED gelb leuchten,&lt;x4/&gt;wenn Pin 2 gedrückt wird.&lt;x5/&gt;c) Lasse die RGB-LED türkis leuchten, &lt;x6/&gt;wenn Pin 3 gedrückt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104348Z" creationid="amando" creationdate="20260619T104348Z">
+        <seg>a) Laat de RGB-LED roze branden,&lt;x2/&gt;wanneer pin 1 wordt ingedrukt.&lt;x3/&gt;b) Laat de RGB-LED geel branden,&lt;x4/&gt;wanneer pin 2 wordt ingedrukt.&lt;x5/&gt;c) Laat de RGB-LED turkoois branden, &lt;x6/&gt;wanneer pin 3 wordt ingedrukt.</seg>
       </tuv>
     </tu>
     <tu>
