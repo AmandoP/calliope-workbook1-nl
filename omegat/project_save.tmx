@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;x4/&gt;Tipp: Tippe Dauerhaft in die Suche ein!&lt;x5/&gt;Lasse eine Rakete auf der LED-Matrix steigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100129Z" creationid="amando" creationdate="20260619T100129Z">
+        <seg>&lt;x4/&gt;Tip: typ ‘Duurzaam’ in het zoekveld!&lt;x5/&gt;Laat een raket opstijgen op de LED-matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;x4/&gt;b) Kreise den Schritt ein, der wiederholt wird.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134427Z" creationid="amando" creationdate="20260618T134427Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133854Z" creationid="amando" creationdate="20260618T133854Z">
         <seg>&lt;x5/&gt;Gebruik een variabele om de snelheid van je animatie te bepalen en deze gemakkelijk aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x6/&gt;Du musst wie ein Trickfilmprofi in Einzelbildern denken.&lt;x7/&gt;Bringe die Befehle in die richtige Reihenfolge und&lt;x8/&gt;lasse einen Countdown von 3-2-1-0 anzeigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100913Z" creationid="amando" creationdate="20260619T100913Z">
+        <seg>&lt;x6/&gt;Je moet net als een animatieprofessional in afzonderlijke beelden denken.&lt;x7/&gt;Zet de commando's in de juiste volgorde en&lt;x8/&gt;laat een aftelling van 3-2-1-0 weergeven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +210,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134402Z" creationid="amando" creationdate="20260618T134402Z">
         <seg>Bij het programmeren worden algoritmen die de computer moet uitvoeren, vertaald naar programma's die de computer begrijpt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Beim Start erscheint ein Herz auf der LED-Matrix.&lt;x2/&gt;Lasse „Ich             Berlin!“ über die LED-Matrix laufen.&lt;x3/&gt;Lasse dauerhaft ein Herz auf der LED-Matrix blinken.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100116Z" creationid="amando" creationdate="20260619T100116Z">
+        <seg>Bij het opstarten verschijnt er een hart op de LED-matrix.&lt;x2/&gt;Laat „Ich                Berlin!“ over de LED-matrix lopen.&lt;x3/&gt;Laat een hart continu knipperen op de LED-matrix.</seg>
       </tuv>
     </tu>
     <tu>
