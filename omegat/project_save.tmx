@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Bearbeite die folgenden Aufgaben in MakeCode:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103652Z" creationid="amando" creationdate="20260619T103652Z">
+        <seg>Voer de volgende opdrachten uit in MakeCode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Beim Programmieren werden Algorithmen, die der Computer ausführen soll, in Programme übersetzt, die der Computer versteht.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134402Z" creationid="amando" creationdate="20260618T134402Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Diese Farben werden aus den drei Grundfarben rot, grün, blau gemischt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103635Z" creationid="amando" creationdate="20260619T103635Z">
+        <seg>Deze kleuren worden gemengd uit de drie basiskleuren rood, groen en blauw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Dort steht rechts neben dem USB-Anschluss die Versionsnummer.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095142Z" creationid="amando" creationdate="20260619T095142Z">
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134337Z" creationid="amando" creationdate="20260618T134337Z">
         <seg>Wil je een lekker broodje met jam als ontbijt?&lt;x2/&gt;Zet de instructies in de juiste volgorde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Durch Mischen der Farben können viele Farben angezeigt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103639Z" creationid="amando" creationdate="20260619T103639Z">
+        <seg>Door de kleuren te mengen, kunnen veel verschillende kleuren worden weergegeven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +618,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095208Z" creationid="amando" creationdate="20260619T095208Z">
         <seg>Maak hiervoor de volgende programma's in MakeCode.&lt;x2/&gt;Start de simulator en beschrijf wat er in de simulator gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Struktogramm anhand des Programmcodes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103721Z" creationid="amando" creationdate="20260619T103721Z">
+        <seg>Maak een structogram op basis van de programmacode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Struktogramm, um einen Regenbogen zu programmieren.&lt;x2/&gt;Verwende dazu folgende Farben: &lt;x3/&gt;rot, orange, gelb, grün, türkis, blau, lila.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103729Z" creationid="amando" creationdate="20260619T103729Z">
+        <seg>Maak een structogram om een regenboog te programmeren.&lt;x2/&gt;Gebruik daarvoor de volgende kleuren: &lt;x3/&gt;rood, oranje, geel, groen, turkoois, blauw, paars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +778,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134755Z" creationid="amando" creationdate="20260618T134755Z">
         <seg>Hier zie je een afbeelding van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hinweis:&lt;x2/&gt; &lt;x3/&gt;Ab dem Calliope mini 3 gibt es drei RGB-LEDs.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103734Z" creationid="amando" creationdate="20260619T103734Z">
+        <seg>Opmerking:&lt;x2/&gt; &lt;x3/&gt;Vanaf de Calliope mini 3 zijn er drie RGB-leds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Mache einen Plan!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103746Z" creationid="amando" creationdate="20260619T103746Z">
+        <seg>Maak een plan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mache einen Plan.&lt;x2/&gt;2) Setze dein Programm aus den einzelnen Programmblöcken zusammen.&lt;x3/&gt;3) Überprüfe dein Programm im Simulator.&lt;x4/&gt;4) Übertrage dein Programm auf den Calliope mini.&lt;x5/&gt;5) Führe dein Programm auf dem Calliope mini aus.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095149Z" creationid="amando" creationdate="20260619T095149Z">
@@ -1066,6 +1122,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134832Z" creationid="amando" creationdate="20260618T134832Z">
         <seg>Microfoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mischt man alle drei Farben auf einmal, ergibt das weiß.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103644Z" creationid="amando" creationdate="20260619T103644Z">
+        <seg>Als je alle drie de kleuren tegelijk mengt, krijg je wit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Nutze dafür den Platz auf der nächsten Seite.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103725Z" creationid="amando" creationdate="20260619T103725Z">
+        <seg>Gebruik daarvoor de ruimte op de volgende pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Oder scanne den&lt;x2/&gt;QR-Code.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095112Z" creationid="amando" creationdate="20260619T095112Z">
@@ -1170,6 +1242,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095409Z" creationid="amando" creationdate="20260619T095409Z">
         <seg>Programma's overzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere anhand des Struktogramms.&lt;x2/&gt;Hinweis: &lt;x3/&gt;Vergiss die Pausen nicht!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103717Z" creationid="amando" creationdate="20260619T103717Z">
+        <seg>Programmeer aan de hand van het structogram.&lt;x2/&gt;Opmerking: &lt;x3/&gt;Vergeet de pauzes niet!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1306,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095029Z" creationid="amando" creationdate="20260619T095029Z">
         <seg>Sap in een glas gieten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beobachte im Simulator, was passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103713Z" creationid="amando" creationdate="20260619T103713Z">
+        <seg>Bekijk de programmacode en kijk in de simulator wat er gebeurt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,6 +1554,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113635Z" creationid="amando" creationdate="20260618T113635Z">
         <seg>Gebruik de CO2-printplaat om de luchtkwaliteit te meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vorherige Versionen haben eine RGB-LED.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103738Z" creationid="amando" creationdate="20260619T103738Z">
+        <seg>Eerdere versies hebben een RGB-led.</seg>
       </tuv>
     </tu>
     <tu>
