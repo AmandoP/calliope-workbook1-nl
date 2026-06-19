@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hoch hinaus!&lt;x2/&gt; Hast du es gewusst: Der Calliope mini war zusammen mit dem ESA-Astronauten Matthias Maurer auf der internationalen Raumstation und hat dort fleißig Experimente ausgeführt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101005Z" creationid="amando" creationdate="20260619T101005Z">
+        <seg>Hoog in de lucht!&lt;x2/&gt; Wist je dat: de Calliope mini was samen met ESA-astronaut Matthias Maurer op het internationale ruimtestation en heeft daar ijverig experimenten uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hund frisst</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095032Z" creationid="amando" creationdate="20260619T095032Z">
@@ -1082,6 +1090,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095031Z" creationid="amando" creationdate="20260619T095031Z">
         <seg>Napf&lt;x2/&gt;klaarzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nur durch Testen und Ausprobieren erfährst du, welche Geschwindigkeit die richtige für dich ist.&lt;x2/&gt;Programmiererinnen und Programmierer sind sehr gerne bequem.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101008Z" creationid="amando" creationdate="20260619T101008Z">
+        <seg>Alleen door te testen en uit te proberen kom je erachter welke snelheid voor jou de juiste is.&lt;x2/&gt;Programmeurs houden erg van gemak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wie sieht deine Rakete aus?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100959Z" creationid="amando" creationdate="20260619T100959Z">
+        <seg>Hoe ziet jouw raket eruit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wiederhole diese Testschleifen immer wieder.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095157Z" creationid="amando" creationdate="20260619T095157Z">
@@ -1618,6 +1642,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133923Z" creationid="amando" creationdate="20260618T133923Z">
         <seg>a) &lt;x2/&gt;Maak&lt;x3/&gt; een variabele aan en &lt;x4/&gt; noem deze „Tempo“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a) Füge hinter jeder Zahl eine Pause ein.&lt;x2/&gt;b) Verlängere die Pausen, indem du den Wert der Millisekunden (ms) erhöhst.&lt;x3/&gt;c) Speichere dein Programm unter dem Namen „Raketenstart“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100950Z" creationid="amando" creationdate="20260619T100950Z">
+        <seg>a) Voeg achter elk getal een pauze in.&lt;x2/&gt;b) Verleng de pauzes door de waarde in milliseconden (ms) te verhogen.&lt;x3/&gt;c) Sla je programma op onder de naam „Raketlancering“.</seg>
       </tuv>
     </tu>
     <tu>
