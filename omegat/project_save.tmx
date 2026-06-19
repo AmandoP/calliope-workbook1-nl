@@ -480,8 +480,8 @@
       <tuv lang="de-DE">
         <seg>CO2-Sensor</seg>
       </tuv>
-      <tuv lang="nl" changeid="amando" changedate="20260618T113602Z" creationid="amando" creationdate="20260618T113602Z">
-        <seg>CO₂-sensor</seg>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111903Z" creationid="amando" creationdate="20260618T113602Z">
+        <seg>CO₂-sensoren</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40&lt;x3/&gt;(Erweiterungen)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111931Z" creationid="amando" creationdate="20260619T111931Z">
+        <seg>Importeer de benodigde programmablokken:&lt;x2/&gt;CO2-sensor-SCD40&lt;x3/&gt;(uitbreidingen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;Grove&lt;x3/&gt;(Erweiterungen)</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T111051Z" creationid="amando" creationdate="20260619T111051Z">
@@ -2130,6 +2138,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113648Z" creationid="amando" creationdate="20260618T113648Z">
         <seg>Met de&lt;x1/&gt;Grove-kabel wordt de SCD40 via de Grove-aansluiting A0 aangesloten op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem&lt;x2/&gt;Grove-Kabel wird der SCD40 über den Grove-Anschluss A0 mit dem Calliope mini verbunden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111927Z" creationid="amando" creationdate="20260619T111927Z">
+        <seg>Met de&lt;x2/&gt;Grove-kabel wordt de SCD40 via de Grove-aansluiting A0 aangesloten op de Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3025,6 +3041,14 @@
         <seg>Verwende die CO2-Platine um die Luftqualität zu messen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113635Z" creationid="amando" creationdate="20260618T113635Z">
+        <seg>Gebruik de CO2-printplaat om de luchtkwaliteit te meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwende die CO2-Platine, um die Luftqualität zu messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111919Z" creationid="amando" creationdate="20260619T111919Z">
         <seg>Gebruik de CO2-printplaat om de luchtkwaliteit te meten.</seg>
       </tuv>
     </tu>
