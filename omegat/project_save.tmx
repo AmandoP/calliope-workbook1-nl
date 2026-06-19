@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Auf Seite 58 findest du eine Anleitung, wie du mit einem mobilen Gerät programmierst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095359Z" creationid="amando" creationdate="20260619T095359Z">
+        <seg>Op pagina 58 vind je een handleiding voor het programmeren met een mobiel apparaat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Auf dem Monitor ...</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134713Z" creationid="amando" creationdate="20260618T134713Z">
@@ -206,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Benenne dein Programm und klicke auf „Herunterladen”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095416Z" creationid="amando" creationdate="20260619T095416Z">
+        <seg>Geef je programma een naam en klik op ‘Downloaden’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Betrachte deinen Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134747Z" creationid="amando" creationdate="20260618T134747Z">
@@ -254,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Das Programm wird zunächst als .hex-Datei im Download-Ordner gespeichert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095418Z" creationid="amando" creationdate="20260619T095418Z">
+        <seg>Het programma wordt eerst als .hex-bestand in de downloadmap opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Dazu brauchst du eine Programmierumgebung - auch Editor genannt.&lt;x2/&gt;Eine passende Programmierumgebung ist der Editor MakeCode.&lt;x3/&gt;Du findest ihn unter folgender Internetadresse:</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095110Z" creationid="amando" creationdate="20260619T095110Z">
@@ -266,6 +290,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095216Z" creationid="amando" creationdate="20260619T095216Z">
         <seg>Je bewerkte projecten vind je op de startpagina onder &lt;x2/&gt;„Mijn projecten“&lt;x3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Den Calliope mini steuern</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095429Z" creationid="amando" creationdate="20260619T095429Z">
+        <seg>De Calliope mini bedienen</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,10 +342,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die .hex Datei lässt sich wieder in MakeCode öffnen und bearbeiten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095342Z" creationid="amando" creationdate="20260619T095342Z">
+        <seg>Het .hex-bestand kan weer in MakeCode worden geopend en bewerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die LED-Matrix ist der &lt;x2/&gt;Bildschirm&lt;x3/&gt; des Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133402Z" creationid="amando" creationdate="20260618T133402Z">
         <seg>De LED-matrix is het &lt;x2/&gt;scherm&lt;x3/&gt; van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die LED-Matrix ist der Bildschirm des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095536Z" creationid="amando" creationdate="20260619T095536Z">
+        <seg>De LED-matrix is het scherm van de Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,10 +390,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Drücke die weiße Reset Taste auf deinem Calliope mini, um dein Programm erneut zu starten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095423Z" creationid="amando" creationdate="20260619T095423Z">
+        <seg>Druk op de witte resetknop op je Calliope mini om je programma opnieuw te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Du kannst die Projekte im Arbeitsheft mit allen Calliope mini Versionen umsetzen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134935Z" creationid="amando" creationdate="20260618T134935Z">
         <seg>Je kunt de projecten in het werkboek uitvoeren met alle versies van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst diesen Link speichern oder mit anderen teilen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095348Z" creationid="amando" creationdate="20260619T095348Z">
+        <seg>Je kunt deze link opslaan of met anderen delen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +434,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134337Z" creationid="amando" creationdate="20260618T134337Z">
         <seg>Wil je een lekker broodje met jam als ontbijt?&lt;x2/&gt;Zet de instructies in de juiste volgorde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Durch einen Klick auf das &lt;x2/&gt;Speichern-Symbol&lt;x3/&gt;kannst du dein Programm als .hex Datei speichern.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095340Z" creationid="amando" creationdate="20260619T095340Z">
+        <seg>Door op het &lt;x2/&gt;opslagpictogram&lt;x3/&gt;te klikken, kun je je programma opslaan als een .hex-bestand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +602,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133632Z" creationid="amando" creationdate="20260618T133632Z">
         <seg>Voer de afzonderlijke stappen in de juiste volgorde uit en test het resultaat op je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Führe die einzelnen Schritte in der richtigen Reihenfolge aus und teste sie auf deinem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095403Z" creationid="amando" creationdate="20260619T095403Z">
+        <seg>Voer de afzonderlijke stappen in de juiste volgorde uit en test ze op je Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>JETZT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095435Z" creationid="amando" creationdate="20260619T095435Z">
+        <seg>NU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Je genauer die Anweisungen, desto präziser ist das Ergebnis.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134316Z" creationid="amando" creationdate="20260618T134316Z">
@@ -830,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>LOS</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095437Z" creationid="amando" creationdate="20260619T095437Z">
+        <seg>GAAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>LUFTQUALITÄT</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133107Z" creationid="amando" creationdate="20260618T133107Z">
@@ -858,6 +954,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134611Z" creationid="amando" creationdate="20260618T134611Z">
         <seg>Maak kennis met de Calliope mini.&lt;x2/&gt;Ontwikkel creatieve ideeën en maak je eigen prototypes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lerne die einzelnen Aktoren und Sensoren des Calliope mini zu steuern und erstelle erste eigene Programme.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095433Z" creationid="amando" creationdate="20260619T095433Z">
+        <seg>Leer de afzonderlijke actuatoren en sensoren van de Calliope mini aan te sturen en maak je eerste eigen programma’s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1098,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134648Z" creationid="amando" creationdate="20260618T134648Z">
         <seg>Deel de afzonderlijke onderdelen in de categorieën &lt;x2/&gt;Invoer&lt;x3/&gt; &lt;x4/&gt;(roze)&lt;x5/&gt;, &lt;x6/&gt;Verwerking&lt;x7/&gt; &lt;x8/&gt;(groen) of &lt;x9/&gt;Uitvoer&lt;x10/&gt; &lt;x11/&gt;(turkoois)&lt;x12/&gt;, door ze met de juiste kleur te omcirkelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programme übertragen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095409Z" creationid="amando" creationdate="20260619T095409Z">
+        <seg>Programma's overzetten</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Vergiss nicht, Knopf A und Knopf B zu drücken.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095405Z" creationid="amando" creationdate="20260619T095405Z">
+        <seg>Vergeet niet op knop A en knop B te drukken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Verwende die CO2-Platine um die Luftqualität zu messen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113635Z" creationid="amando" creationdate="20260618T113635Z">
@@ -1406,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Wie kann ich Programme speichern?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095338Z" creationid="amando" creationdate="20260619T095338Z">
+        <seg>Hoe kan ik programma's opslaan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Wie kann ich ein Programm öffnen?</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095215Z" creationid="amando" creationdate="20260619T095215Z">
@@ -1454,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Ziehe nun die Datei auf das Laufwerk „MINI“ - fertig!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095420Z" creationid="amando" creationdate="20260619T095420Z">
+        <seg>Sleep het bestand nu naar het station „MINI“ – klaar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>a)	&lt;x2/&gt;Erstelle&lt;x3/&gt; eine Variable und &lt;x4/&gt;	benenne sie „Tempo“.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133923Z" creationid="amando" creationdate="20260618T133923Z">
@@ -1474,6 +1610,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134546Z" creationid="amando" creationdate="20260618T134546Z">
         <seg>dan blijf ik thuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>geht‘s</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095441Z" creationid="amando" creationdate="20260619T095441Z">
+        <seg>daar gaan we</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,6 +1658,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095337Z" creationid="amando" creationdate="20260619T095337Z">
         <seg>Via &lt;x2/&gt;„Importeren“&lt;x3/&gt; kun je opgeslagen projecten openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über das &lt;x2/&gt;Teilen-Symbol&lt;x3/&gt; wird eine URL und ein QR-Code für dein Programm generiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095343Z" creationid="amando" creationdate="20260619T095343Z">
+        <seg>Via het &lt;x2/&gt;deel-pictogram&lt;x3/&gt; worden een URL en een QR-code voor je programma gegenereerd.</seg>
       </tuv>
     </tu>
     <tu>
