@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Calliope mini kann über den Lautsprecher Töne ausgeben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104225Z" creationid="amando" creationdate="20260619T104225Z">
+        <seg>De Calliope mini kan geluiden weergeven via de luidspreker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Der Computer ...</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134701Z" creationid="amando" creationdate="20260618T134701Z">
@@ -446,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Die Knöpfe (Taster) funktionieren, wie die Tasten auf einer Tastatur.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104049Z" creationid="amando" creationdate="20260619T104049Z">
+        <seg>De knoppen (drukknoppen) werken net als de toetsen op een toetsenbord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Die LED-Matrix ist der &lt;x2/&gt;Bildschirm&lt;x3/&gt; des Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133402Z" creationid="amando" creationdate="20260618T133402Z">
@@ -466,6 +482,22 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134308Z" creationid="amando" creationdate="20260618T134308Z">
         <seg>De verzameling van deze instructies wordt een programma of algoritme genoemd.&lt;x2/&gt;In je dagelijks leven zijn er veel handelingen die je achter elkaar uitvoert en waarbij je op de volgorde moet letten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Touch-Pins ermöglichen es, mit den Fingern einen Schaltkreis zu schließen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104254Z" creationid="amando" creationdate="20260619T104254Z">
+        <seg>Met de touch-pinnen kun je met je vingers een stroomkring sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Touch-Pins reagieren auf Berührung und lösen so - wie die Knöpfe - Befehle aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104250Z" creationid="amando" creationdate="20260619T104250Z">
+        <seg>De touch-pins reageren op aanraking en activeren zo – net als de knoppen – opdrachten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Er befindet sich unter dem B-Knopf genau neben dem Touch-Pin mit der Nummer 3.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104229Z" creationid="amando" creationdate="20260619T104229Z">
+        <seg>Deze bevindt zich onder de B-knop, precies naast de touch-pin met nummer 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ergänze das Struktogramm um zwei Entscheidungen und formuliere passende Anweisungen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095100Z" creationid="amando" creationdate="20260619T095100Z">
@@ -718,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Erstelle folgendes Programm in MakeCode:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104315Z" creationid="amando" creationdate="20260619T104315Z">
+        <seg>Maak het volgende programma in MakeCode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Es gibt Abläufe, die durch getroffene Entscheidungen unterschiedlich verlaufen.&lt;x2/&gt;Verbinde die &lt;x3/&gt;Bedingungen (wenn)&lt;x4/&gt; mit der passenden &lt;x5/&gt;Entscheidung (dann).</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134414Z" creationid="amando" creationdate="20260618T134414Z">
@@ -758,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Füge beiden Symbolen noch eine passende Farbe hinzu und teste das Projekt auf deinem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104110Z" creationid="amando" creationdate="20260619T104110Z">
+        <seg>Geef beide symbolen nog een passende kleur en test het project op je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Führe die einzelnen Schritte in der richtigen Reihenfolge aus und teste auf deinem Calliope mini.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133632Z" creationid="amando" creationdate="20260618T133632Z">
@@ -790,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Gib den Programmcode korrigiert ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104102Z" creationid="amando" creationdate="20260619T104102Z">
+        <seg>Voer de programmacode in de juiste vorm in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Gib die URL in die Browserleiste ein - &lt;x2/&gt;makecode.calliope.cc</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095111Z" creationid="amando" creationdate="20260619T095111Z">
@@ -802,6 +866,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134615Z" creationid="amando" creationdate="20260618T134615Z">
         <seg>Hakken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Halte den Calliope mini mit einer Hand am&lt;x2/&gt;Minus (-) Pin fest und berühre mit einem Finger der anderen Hand einen der anderen Pins.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104336Z" creationid="amando" creationdate="20260619T104336Z">
+        <seg>Houd de Calliope mini met één hand vast bij de&lt;x2/&gt;minus (-)-pin en raak met een vinger van je andere hand een van de andere pinnen aan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +914,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095130Z" creationid="amando" creationdate="20260619T095130Z">
         <seg>Hier kun je je programma een naam geven, opslaan en verzenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier kannst du deine Eingabe noch genauer definieren.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104306Z" creationid="amando" creationdate="20260619T104306Z">
+        <seg>Hier kun je je invoer nog nauwkeuriger specificeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>In der Kategorie &lt;x2/&gt;Eingabe&lt;x3/&gt; &lt;x4/&gt;findest du den Ereignisblock &lt;x5/&gt;„gedrückt“&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104302Z" creationid="amando" creationdate="20260619T104302Z">
+        <seg>In de categorie &lt;x2/&gt;Invoer&lt;x3/&gt; &lt;x4/&gt;vind je het gebeurtenisblok &lt;x5/&gt;„ingedrukt”&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>In vielen Abläufen kannst du wiederkehrende Muster erkennen.&lt;x2/&gt;Manche Wiederholungen haben eine definierte Anzahl.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134419Z" creationid="amando" creationdate="20260618T134419Z">
@@ -1134,6 +1222,38 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Lasse die RGB-LED grün leuchten,&lt;x2/&gt;wenn Pin 0 gedrückt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104258Z" creationid="amando" creationdate="20260619T104258Z">
+        <seg>Laat de RGB-LED groen branden,&lt;x2/&gt;wanneer pin 0 wordt ingedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lasse die Tonleiter abspielen.&lt;x2/&gt;C - D - E - F - G - A - H - C</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104152Z" creationid="amando" creationdate="20260619T104152Z">
+        <seg>Speel de toonladder af.&lt;x2/&gt;C - D - E - F - G - A - H - C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lasse eine Melodie abspielen,&lt;x2/&gt;wenn Knopf A gedrückt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104200Z" creationid="amando" creationdate="20260619T104200Z">
+        <seg>Speel een melodie af&lt;x2/&gt;wanneer knop A wordt ingedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lasse einen Smiley erscheinen, wenn der Knopf A gedrückt wird und einen traurigen Smiley, wenn der Knopf B gedrückt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104106Z" creationid="amando" creationdate="20260619T104106Z">
+        <seg>Laat een smiley verschijnen als er op knop A wordt gedrukt en een verdrietige smiley als er op knop B wordt gedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Lautsprecher</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134857Z" creationid="amando" creationdate="20260618T134857Z">
@@ -1210,6 +1330,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134832Z" creationid="amando" creationdate="20260618T134832Z">
         <seg>Microfoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Minus-Pin&lt;x2/&gt;nicht vergessen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104340Z" creationid="amando" creationdate="20260619T104340Z">
+        <seg>Vergeet de min-pin&lt;x2/&gt;niet!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1438,6 +1566,22 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beschreibe, was passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104057Z" creationid="amando" creationdate="20260619T104057Z">
+        <seg>Bekijk de programmacode en beschrijf wat er gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode genau an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104114Z" creationid="amando" creationdate="20260619T104114Z">
+        <seg>Bekijk de programmacode eens goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Schau dir die einzelnen Schritte zum Übertragen deines Programms auf den Calliope mini genau an und bringe sie in die richtige Reihenfolge.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133619Z" creationid="amando" creationdate="20260618T133619Z">
@@ -1458,6 +1602,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113643Z" creationid="amando" creationdate="20260618T113643Z">
         <seg>Sluit de printplaat aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schreibe ein Programm für&lt;x2/&gt;„Alle Vögel sind schon da“.&lt;x3/&gt;Hinweis:&lt;x4/&gt; Achte auf die Tonlängen und optimiere dein Programm durch Wiederholungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104156Z" creationid="amando" creationdate="20260619T104156Z">
+        <seg>Schrijf een programma voor&lt;x2/&gt;„Alle vogels zijn er al“.&lt;x3/&gt;Opmerking:&lt;x4/&gt; Let op de toonlengtes en optimaliseer je programma door middel van herhalingen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Tipp: Es ist wichtig, gleichzeitig den Minus (-) Pin zu berühren, um eine Pin-Eingabe auszulösen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104331Z" creationid="amando" creationdate="20260619T104331Z">
+        <seg>Tip: Het is belangrijk om tegelijkertijd de min-pin (-) aan te raken om een pin-invoer te activeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Tipp:&lt;x2/&gt; Die Farben der Blöcke geben dir einen Hinweis in welcher Kategorie du sie findest.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133337Z" creationid="amando" creationdate="20260618T133337Z">
@@ -1674,6 +1834,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103738Z" creationid="amando" creationdate="20260619T103738Z">
         <seg>Eerdere versies hebben een RGB-led.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Warum wird dir niemals ein trauriger Smiley angezeigt?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104118Z" creationid="amando" creationdate="20260619T104118Z">
+        <seg>Waarom krijg je nooit een verdrietige smiley te zien?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1794,6 +1962,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134558Z" creationid="amando" creationdate="20260618T134558Z">
         <seg>Als ik ziek ben,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Werden sie gedrückt, senden sie ein Signal an den Calliope mini, um eine vorab programmierte Anweisung auszuführen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104053Z" creationid="amando" creationdate="20260619T104053Z">
+        <seg>Als je erop drukt, sturen ze een signaal naar de Calliope mini om een vooraf geprogrammeerde opdracht uit te voeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,6 +2178,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095117Z" creationid="amando" creationdate="20260619T095117Z">
         <seg>Overzicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104344Z" creationid="amando" creationdate="20260619T104344Z">
+        <seg>Zet je programma over naar de Calliope mini en probeer het eens uit.</seg>
       </tuv>
     </tu>
     <tu>
