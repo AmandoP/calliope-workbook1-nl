@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Auf der Rückseite kannst du dann den Calliope mini mit einem Klebestreifen oder Gummiband befestigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105531Z" creationid="amando" creationdate="20260619T105531Z">
+        <seg>Aan de achterkant kun je de Calliope mini vervolgens met een plakbandje of een elastiekje vastmaken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Aus dem Lautsprecher ...</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134717Z" creationid="amando" creationdate="20260618T134717Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134623Z" creationid="amando" creationdate="20260618T134623Z">
         <seg>KNUTSELEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bastel dir ein eigenes Eis-Thermometer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105523Z" creationid="amando" creationdate="20260619T105523Z">
+        <seg>Maak zelf een ijsthermometer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,10 +558,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Der Temperatursensor des Calliope mini&lt;x2/&gt;ist im Prozessor integriert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105327Z" creationid="amando" creationdate="20260619T105327Z">
+        <seg>De temperatuursensor van de Calliope mini&lt;x2/&gt;is in de processor geïntegreerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Der Text wird über Funk empfangen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104643Z" creationid="amando" creationdate="20260619T104643Z">
         <seg>De tekst wordt via de radio ontvangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der integrierte Lagesensor des Calliope mini misst, in welcher Position sich der Calliope mini befindet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105544Z" creationid="amando" creationdate="20260619T105544Z">
+        <seg>De ingebouwde positiesensor van de Calliope mini meet in welke positie de Calliope mini zich bevindt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +642,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134308Z" creationid="amando" creationdate="20260618T134308Z">
         <seg>De verzameling van deze instructies wordt een programma of algoritme genoemd.&lt;x2/&gt;In je dagelijks leven zijn er veel handelingen die je achter elkaar uitvoert en waarbij je op de volgorde moet letten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Temperatur wird in Grad Celsius (°C)&lt;x2/&gt;angegeben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105356Z" creationid="amando" creationdate="20260619T105356Z">
+        <seg>De temperatuur wordt uitgedrukt in graden Celsius (°C)&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Eis-Thermometer</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105425Z" creationid="amando" creationdate="20260619T105425Z">
+        <seg>IJsthermometer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Entscheidung/Abfrage</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095008Z" creationid="amando" creationdate="20260619T095008Z">
@@ -842,6 +890,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104229Z" creationid="amando" creationdate="20260619T104229Z">
         <seg>Deze bevindt zich onder de B-knop, precies naast de touch-pin met nummer 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er kann auch feststellen, ob der Calliope mini geschüttelt wird.&lt;x2/&gt;Einen Lagesensor kennst du von einem Handy.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105548Z" creationid="amando" creationdate="20260619T105548Z">
+        <seg>Hij kan ook detecteren of de Calliope mini wordt geschud.&lt;x2/&gt;Je kent een positiesensor wel van een mobiele telefoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,6 +970,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104823Z" creationid="amando" creationdate="20260619T104823Z">
         <seg>Maak een programma dat continu de helderheid meet en deze via de&lt;x2/&gt;LED-matrix weergeeft.&lt;x3/&gt;Meet de omgevingshelderheid op verschillende locaties en leg de gemeten waarden vast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Programm, das dauerhaft die Temperatur misst und diese über die LED-Matrix ausgibt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105335Z" creationid="amando" creationdate="20260619T105335Z">
+        <seg>Maak een programma dat continu de temperatuur meet en deze via de LED-matrix weergeeft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Falte den Karton zum Schluss zusammen und befestige Gummibänder außen am Karton.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105257Z" creationid="amando" creationdate="20260619T105257Z">
+        <seg>Vouw het karton tot slot dicht en bevestig elastiekjes aan de buitenkant van het karton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Finde eine Bezeichnung für den Ort und notiere die Messung in Wert 1.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104827Z" creationid="amando" creationdate="20260619T104827Z">
@@ -1082,6 +1154,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105143Z" creationid="amando" creationdate="20260619T105143Z">
         <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Maak een structogram&lt;x3/&gt;b) Programmeer aan de hand van je structogram&lt;x4/&gt;Gebruik een „als-dan … anders”-conditie om de acties te sturen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm&lt;x3/&gt;b) Programmiere anhand deines Struktogramms&lt;x4/&gt;Verwende eine „wenn dann… ansonsten” Abfrage, um die Aktionen zu steuern.&lt;x5/&gt;Hinweis: Das Plus ermöglicht eine weitere Abfrage.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105433Z" creationid="amando" creationdate="20260619T105433Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Maak een structogram&lt;x3/&gt;b) Programmeer aan de hand van je structogram&lt;x4/&gt;Gebruik een „als-dan… anders”-vraag om de acties te sturen.&lt;x5/&gt;Opmerking: met het plusteken kun je een volgende vraag toevoegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,10 +1318,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Hinweis:&lt;x2/&gt; Die Werte können etwas höher ausfallen, da sich der Temperatursensor im Prozessor befindet und dieser eigene Wärme abstrahlt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105318Z" creationid="amando" creationdate="20260619T105318Z">
+        <seg>Opmerking:&lt;x2/&gt; De waarden kunnen iets hoger uitvallen, omdat de temperatuursensor zich in de processor bevindt en deze zelf warmte afgeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Hinweis:&lt;x2/&gt; Stelle sicher, dass du deine Calliope mini Version im Simulator siehst.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T095131Z" creationid="amando" creationdate="20260619T095131Z">
         <seg>Opmerking:&lt;x2/&gt; Zorg ervoor dat je je Calliope mini-versie in de simulator ziet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hitzefrei!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105450Z" creationid="amando" creationdate="20260619T105450Z">
+        <seg>Geen school vanwege de hitte!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Lage</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105540Z" creationid="amando" creationdate="20260619T105540Z">
+        <seg>Locatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Lagesensor</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134824Z" creationid="amando" creationdate="20260618T134824Z">
@@ -1702,10 +1806,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Miss die Temperatur an unterschiedlichen Orten und dokumentiere die gemessenen Werte.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105417Z" creationid="amando" creationdate="20260619T105417Z">
+        <seg>Meet de temperatuur op verschillende plaatsen en noteer de gemeten waarden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Mit Hilfe der Sensoren kann der Calliope mini unterschiedlichste Werte aus der Umgebung messen.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134055Z" creationid="amando" creationdate="20260618T134055Z">
         <seg>Met behulp van de sensoren kan de Calliope mini allerlei verschillende waarden uit de omgeving meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit Hilfe des Temperatursensors kann die Umgebungstemperatur gemessen werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105331Z" creationid="amando" creationdate="20260619T105331Z">
+        <seg>Met behulp van de temperatuursensor kan de omgevingstemperatuur worden gemeten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +1954,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104852Z" creationid="amando" creationdate="20260619T104852Z">
         <seg>Plaats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Pause die Schablone ab oder male eine eigene Eisform und verziere die Vorderseite.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105527Z" creationid="amando" creationdate="20260619T105527Z">
+        <seg>Kleur het sjabloon in of teken zelf een ijsvorm en versier de voorkant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2006,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Schließe danach das Batteriefach an den Calliope mini an und lege alles zusammen in den Karton.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105253Z" creationid="amando" creationdate="20260619T105253Z">
+        <seg>Sluit vervolgens het batterijvakje aan op de Calliope mini en doe alles samen in de doos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Schließe die Platine an.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T113643Z" creationid="amando" creationdate="20260618T113643Z">
@@ -2018,6 +2154,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T105228Z" creationid="amando" creationdate="20260619T105228Z">
         <seg>Zaag in de voorkant een venster voor de LED-matrix en de RGB-LED en daarnaast twee gaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schreibe ein Programm für ein Thermometer, das ein Hitzefrei-Signal ausgibt, wenn eine Temperatur von 30°C überschritten ist.&lt;x2/&gt;Eingabe:&lt;x3/&gt;Der Temperatursensor misst die Umgebungstemperatur.&lt;x4/&gt;Verarbeitung:&lt;x5/&gt;Ist der Wert der Variable „Temperatur“ größer als 30°C, lasse ein Eis-Symbol auf der LED-Matrix erscheinen und schalte die RGB-LED auf rot.&lt;x6/&gt;Ist der Wert der Variable „Temperatur“ kleiner als 20°C, schalte die LED-Matrix aus und die RGB-LED auf blau.&lt;x7/&gt;In allen anderen Fällen schalte die Hälfte der LED-Matrix ein und die RGB-LED auf grün.&lt;x8/&gt;Ausgabe:&lt;x9/&gt;Die LED-Matrix und die RGB-LED.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105429Z" creationid="amando" creationdate="20260619T105429Z">
+        <seg>Schrijf een programma voor een thermometer dat een ‘geen les vanwege hitte’-signaal geeft wanneer de temperatuur boven de 30 °C komt.&lt;x2/&gt;Invoer:&lt;x3/&gt;De temperatuursensor meet de omgevingstemperatuur.&lt;x4/&gt;Verwerking:&lt;x5/&gt;Als de waarde van de variabele „Temperatuur“ groter is dan 30 °C, laat dan een ijssymbool op de LED-matrix verschijnen en zet de RGB-LED op rood.&lt;x6/&gt;Als de waarde van de variabele „Temperatuur“ kleiner is dan 20 °C, schakel dan de LED-matrix uit en de RGB-LED op blauw.&lt;x7/&gt;In alle andere gevallen schakel dan de helft van de LED-matrix in en de RGB-LED op groen.&lt;x8/&gt;Uitvoer:&lt;x9/&gt;De LED-matrix en de RGB-LED.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,10 +2334,26 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Temperatur</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105352Z" creationid="amando" creationdate="20260619T105352Z">
+        <seg>Temperatuur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Teste im Editor und beschreibe.</seg>
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T133218Z" creationid="amando" creationdate="20260618T133218Z">
         <seg>Test het in de editor en beschrijf het.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Teste im Simulator.&lt;x2/&gt;Beschreibe, was bei einer Temperatur von 22°C und von 33°C passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105511Z" creationid="amando" creationdate="20260619T105511Z">
+        <seg>Voer tests uit in de simulator.&lt;x2/&gt;Beschrijf wat er gebeurt bij een temperatuur van 22 °C en van 33 °C.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2418,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T104331Z" creationid="amando" creationdate="20260619T104331Z">
         <seg>Tip: Het is belangrijk om tegelijkertijd de min-pin (-) aan te raken om een pin-invoer te activeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp: Wenn du sichergehen möchtest, dass deine Hitzefrei- Warnung bemerkt wird, lasse noch einen Ton ertönen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105454Z" creationid="amando" creationdate="20260619T105454Z">
+        <seg>Tip: Als je er zeker van wilt zijn dat je waarschuwing voor hittevrij wordt opgemerkt, laat dan nog een geluidssignaal klinken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,6 +2642,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260618T134751Z" creationid="amando" creationdate="20260618T134751Z">
         <seg>Als je goed kijkt, zie je verschillende symbolen die je aanwijzingen geven over de onderdelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn du magst, kannst du diesen Temperaturunterschied aber analysieren und dann die Differenz subtrahieren.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105322Z" creationid="amando" creationdate="20260619T105322Z">
+        <seg>Als je wilt, kun je dit temperatuurverschil echter analyseren en vervolgens het verschil aftrekken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2826,6 +3002,14 @@
       </tuv>
       <tuv lang="nl" changeid="amando" changedate="20260619T103848Z" creationid="amando" creationdate="20260619T103848Z">
         <seg>Oefeningen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• In der Sonne&lt;x2/&gt;• Im Schatten&lt;x3/&gt;• Im Eisfach</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105412Z" creationid="amando" creationdate="20260619T105412Z">
+        <seg>• In de zon&lt;x2/&gt;• In de schaduw&lt;x3/&gt;• In de vriezer</seg>
       </tuv>
     </tu>
     <tu>
